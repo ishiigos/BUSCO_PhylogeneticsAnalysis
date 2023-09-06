@@ -1,0 +1,2 @@
+# GeneticTransitionsToSymbiosis_BUSCO_PhylogenticsAnalysis
+Phylogenetics Analysis pipeline using BUSCO orthologs
