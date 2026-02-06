@@ -1,0 +1,1558 @@
+# BUSCO version is: 5.4.7 
+# The lineage dataset is: chlorophyta_odb10 (Creation date: 2020-08-05, number of genomes: 16, number of BUSCOs: 1519)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+15at3041	Missing
+42at3041	Missing
+45at3041	Missing
+52at3041	Missing
+64at3041	Missing
+66at3041	Missing
+72at3041	Fragmented	KN805290.1	548682	555550	+	694.2	443	https://www.orthodb.org/v10?query=72at3041	P-loop containing nucleoside triphosphate hydrolase protein
+91at3041	Fragmented	JUBA01000825.1	1076	2	-	367.5	186	https://www.orthodb.org/v10?query=91at3041	FAD-binding, type 2
+96at3041	Missing
+99at3041	Missing
+106at3041	Missing
+117at3041	Missing
+118at3041	Missing
+125at3041	Missing
+126at3041	Missing
+137at3041	Missing
+142at3041	Complete	JUBA01000511.1	16490	9858	-	1110.8	638	https://www.orthodb.org/v10?query=142at3041	Exportin-1
+143at3041	Missing
+144at3041	Missing
+155at3041	Missing
+171at3041	Missing
+175at3041	Missing
+179at3041	Missing
+187at3041	Missing
+207at3041	Fragmented	KN805369.1	1271922	1272938	+	267.9	167	https://www.orthodb.org/v10?query=207at3041	Coatomer subunit gamma
+211at3041	Missing
+222at3041	Missing
+226at3041	Missing
+228at3041	Missing
+230at3041	Missing
+231at3041	Missing
+235at3041	Complete	KN805369.1	7611120	7609542	-	159.3	157	https://www.orthodb.org/v10?query=235at3041	predicted protein
+239at3041	Missing
+246at3041	Missing
+251at3041	Missing
+256at3041	Missing
+263at3041	Missing
+290at3041	Missing
+294at3041	Missing
+295at3041	Missing
+307at3041	Fragmented	KN805369.1	7442998	7443513	+	165.8	102	https://www.orthodb.org/v10?query=307at3041	26S proteasome non-ATPase regulatory subunit 2 homolog
+322at3041	Missing
+324at3041	Missing
+336at3041	Missing
+345at3041	Missing
+346at3041	Missing
+363at3041	Missing
+366at3041	Missing
+381at3041	Fragmented	KN805341.1	1543994	1543411	-	112.5	92	https://www.orthodb.org/v10?query=381at3041	NADH
+388at3041	Fragmented	KN805290.1	187630	186950	-	282.5	133	https://www.orthodb.org/v10?query=388at3041	dynamin-related GTPase
+391at3041	Missing
+406at3041	Missing
+412at3041	Missing
+415at3041	Missing
+416at3041	Missing
+417at3041	Missing
+424at3041	Missing
+425at3041	Missing
+427at3041	Complete	JUBA01000120.1	10152	15571	+	660.0	416	https://www.orthodb.org/v10?query=427at3041	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, atypical
+433at3041	Missing
+439at3041	Missing
+440at3041	Missing
+443at3041	Complete	KN805369.1	3338783	3337747	-	205.4	105	https://www.orthodb.org/v10?query=443at3041	set domain protein
+477at3041	Missing
+495at3041	Fragmented	KN805366.1	2190224	2190514	+	118.7	89	https://www.orthodb.org/v10?query=495at3041	Pre-mRNA-processing factor 6
+505at3041	Missing
+510at3041	Missing
+522at3041	Missing
+524at3041	Missing
+534at3041	Missing
+550at3041	Complete	JUBA01000188.1	9837	7215	-	315.8	177	https://www.orthodb.org/v10?query=550at3041	Acetolactate synthase
+561at3041	Complete	KN805364.1	8089	6403	-	399.0	216	https://www.orthodb.org/v10?query=561at3041	4Fe-4S ferredoxin, iron-sulphur binding, conserved site
+570at3041	Missing
+581at3041	Fragmented	KN805357.1	692934	691769	-	541.0	270	https://www.orthodb.org/v10?query=581at3041	Myo-inositol-1-phosphate synthase
+587at3041	Complete	KN805262.1	23480	27354	+	737.4	562	https://www.orthodb.org/v10?query=587at3041	cellular apoptosis susceptibility protein
+593at3041	Missing
+594at3041	Missing
+599at3041	Missing
+617at3041	Missing
+619at3041	Fragmented	KN805369.1	4041420	4040789	-	186.3	147	https://www.orthodb.org/v10?query=619at3041	Protein phosphatase 2A regulatory subunit
+629at3041	Missing
+633at3041	Missing
+635at3041	Missing
+639at3041	Fragmented	KN805367.1	2972052	2971801	-	90.0	69	https://www.orthodb.org/v10?query=639at3041	Formate-tetrahydrofolate ligase
+643at3041	Fragmented	KN805369.1	5242958	5242536	-	76.6	52	https://www.orthodb.org/v10?query=643at3041	Selenide, water dikinase
+652at3041	Complete	JUBA01000390.1	11851	6923	-	566.3	396	https://www.orthodb.org/v10?query=652at3041	ATP-dependent RNA helicase DDX1
+676at3041	Fragmented	JUBA01000289.1	1439	4798	+	616.7	413	https://www.orthodb.org/v10?query=676at3041	FACT complex subunit SPT16
+681at3041	Complete	KN805359.1	1381948	1380347	-	516.2	272	https://www.orthodb.org/v10?query=681at3041	Type II secretory pathway family
+697at3041	Missing
+714at3041	Missing
+721at3041	Missing
+727at3041	Missing
+731at3041	Missing
+733at3041	Complete	JUBA01000310.1	5703	2804	-	716.3	395	https://www.orthodb.org/v10?query=733at3041	Phospho-2-dehydro-3-deoxyheptonate aldolase
+743at3041	Fragmented	KN805369.1	1437474	1437766	+	129.6	67	https://www.orthodb.org/v10?query=743at3041	subunit of mRNA cleavage and polyadenylation specificity factor
+761at3041	Missing
+763at3041	Fragmented	KN805362.1	835245	834958	-	108.8	76	https://www.orthodb.org/v10?query=763at3041	3-hydroxyacyl-CoA dehydrogenase
+766at3041	Missing
+767at3041	Missing
+768at3041	Missing
+769at3041	Missing
+776at3041	Missing
+779at3041	Complete	KN805363.1	128923	132841	+	681.5	372	https://www.orthodb.org/v10?query=779at3041	Dihydroxy-acid dehydratase
+781at3041	Complete	KN805357.1	35280	38530	+	835.7	471	https://www.orthodb.org/v10?query=781at3041	Nitrite/Sulfite reductase ferredoxin-like domain
+782at3041	Complete	JUBA01000264.1	1242	7383	+	578.6	399	https://www.orthodb.org/v10?query=782at3041	Putative inactive serine/threonine-protein kinase scy1
+784at3041	Complete	KN805366.1	706120	708422	+	512.5	259	https://www.orthodb.org/v10?query=784at3041	Geranylgeranyl reductase
+796at3041	Complete	JUBA01000179.1	24479	12584	-	762.0	870	https://www.orthodb.org/v10?query=796at3041	S1 domain
+799at3041	Missing
+803at3041	Missing
+810at3041	Missing
+812at3041	Missing
+815at3041	Missing
+818at3041	Fragmented	KN805341.1	824475	823211	-	220.1	171	https://www.orthodb.org/v10?query=818at3041	Coatomer subunit delta
+820at3041	Missing
+830at3041	Missing
+832at3041	Complete	JUBA01000004.1	192373	189575	-	772.3	383	https://www.orthodb.org/v10?query=832at3041	Vacuolar ATP synthase subunit B
+863at3041	Fragmented	KN805359.1	612390	609641	-	300.5	271	https://www.orthodb.org/v10?query=863at3041	chloroplast envelope anion channel-forming Tic110 family
+872at3041	Fragmented	JUBA01000204.1	166	713	+	250.2	121	https://www.orthodb.org/v10?query=872at3041	GroEL-like apical domain superfamily
+878at3041	Missing
+879at3041	Missing
+884at3041	Missing
+885at3041	Missing
+890at3041	Missing
+891at3041	Missing
+894at3041	Missing
+897at3041	Fragmented	KN805361.1	2551538	2550329	-	280.2	199	https://www.orthodb.org/v10?query=897at3041	CTP synthase
+900at3041	Missing
+911at3041	Missing
+918at3041	Missing
+919at3041	Missing
+926at3041	Missing
+928at3041	Missing
+930at3041	Missing
+943at3041	Missing
+948at3041	Missing
+957at3041	Missing
+963at3041	Missing
+965at3041	Complete	JUBA01000806.1	5443	3088	-	551.7	364	https://www.orthodb.org/v10?query=965at3041	Heat shock protein 70
+969at3041	Missing
+988at3041	Missing
+992at3041	Missing
+1005at3041	Missing
+1027at3041	Missing
+1029at3041	Missing
+1032at3041	Complete	JUBA01000078.1	27804	34445	+	563.8	489	https://www.orthodb.org/v10?query=1032at3041	Pre-mRNA-splicing factor CDC5/CEF1
+1047at3041	Complete	KN805362.1	2479389	2477484	-	489.3	326	https://www.orthodb.org/v10?query=1047at3041	WD40-repeat-containing domain
+1056at3041	Missing
+1057at3041	Missing
+1071at3041	Missing
+1072at3041	Missing
+1080at3041	Missing
+1084at3041	Missing
+1089at3041	Missing
+1090at3041	Missing
+1093at3041	Missing
+1094at3041	Complete	KN805368.1	4746671	4748018	+	388.6	223	https://www.orthodb.org/v10?query=1094at3041	Protein ROOT HAIR DEFECTIVE 3 homolog
+1103at3041	Missing
+1108at3041	Missing
+1116at3041	Complete	KN805318.1	1106	7394	+	461.9	497	https://www.orthodb.org/v10?query=1116at3041	p-loop containing nucleoside triphosphate hydrolase
+1128at3041	Missing
+1133at3041	Missing
+1139at3041	Missing
+1142at3041	Complete	KN805361.1	2512658	2513570	+	203.8	115	https://www.orthodb.org/v10?query=1142at3041	Pyridoxal phosphate-dependent transferase
+1143at3041	Missing
+1148at3041	Missing
+1149at3041	Missing
+1170at3041	Missing
+1176at3041	Missing
+1183at3041	Duplicated	KN805299.1	3766	12518	+	651.9	450	https://www.orthodb.org/v10?query=1183at3041	Acyl-coenzyme A oxidase
+1183at3041	Duplicated	KN805359.1	1566011	1559823	-	593.1	409	https://www.orthodb.org/v10?query=1183at3041	Acyl-coenzyme A oxidase
+1187at3041	Missing
+1194at3041	Missing
+1195at3041	Missing
+1201at3041	Missing
+1211at3041	Complete	JUBA01000138.1	7440	9204	+	676.4	349	https://www.orthodb.org/v10?query=1211at3041	Cytoplasmic DExD/H-box RNA helicase
+1229at3041	Missing
+1233at3041	Missing
+1235at3041	Missing
+1240at3041	Complete	JUBA01000036.1	29547	36469	+	721.1	534	https://www.orthodb.org/v10?query=1240at3041	Ubiquitin carboxyl-terminal hydrolase
+1242at3041	Complete	JUBA01000963.1	5930	3240	-	637.6	316	https://www.orthodb.org/v10?query=1242at3041	Threonine-tRNA ligase
+1247at3041	Missing
+1248at3041	Complete	KN805361.1	491761	487926	-	642.3	395	https://www.orthodb.org/v10?query=1248at3041	Uridine 5'-monophosphate synthase
+1256at3041	Missing
+1257at3041	Complete	KN805361.1	2570228	2566611	-	588.2	364	https://www.orthodb.org/v10?query=1257at3041	Eukaryotic translation initiation factor 3 subunit B
+1265at3041	Complete	KN805312.1	13199	11662	-	363.3	189	https://www.orthodb.org/v10?query=1265at3041	DNA topoisomerase, type IIA, subunit A/C-terminal
+1267at3041	Missing
+1271at3041	Missing
+1278at3041	Missing
+1280at3041	Fragmented	KN805362.1	139454	139633	+	93.5	54	https://www.orthodb.org/v10?query=1280at3041	cwc22 pre-mRNA splicing factor
+1282at3041	Missing
+1301at3041	Missing
+1303at3041	Missing
+1304at3041	Missing
+1305at3041	Missing
+1316at3041	Fragmented	KN805368.1	7884321	7833423	-	339.4	208	https://www.orthodb.org/v10?query=1316at3041	Component of oligomeric golgi complex 8
+1320at3041	Missing
+1327at3041	Fragmented	KN805359.1	1344704	1253283	-	207.0	144	https://www.orthodb.org/v10?query=1327at3041	protein of endonuclease / exonuclease / phosphatase family
+1341at3041	Complete	KN805358.1	2815653	2813773	-	447.4	277	https://www.orthodb.org/v10?query=1341at3041	Signal recognition particle receptor subunit alpha
+1343at3041	Missing
+1348at3041	Missing
+1350at3041	Missing
+1364at3041	Missing
+1366at3041	Missing
+1379at3041	Missing
+1385at3041	Missing
+1391at3041	Missing
+1410at3041	Missing
+1418at3041	Complete	KN805369.1	3592721	3595923	+	593.6	393	https://www.orthodb.org/v10?query=1418at3041	UDP-N-acetylglucosamine-pyrophosphorylase
+1422at3041	Complete	KN805369.1	6961174	6965003	+	646.4	444	https://www.orthodb.org/v10?query=1422at3041	Quinolinate synthetase A
+1428at3041	Fragmented	KN805368.1	7955871	7955125	-	164.0	122	https://www.orthodb.org/v10?query=1428at3041	Cytochrome P450
+1434at3041	Missing
+1445at3041	Missing
+1459at3041	Missing
+1462at3041	Complete	KN805368.1	5565052	5569529	+	482.5	370	https://www.orthodb.org/v10?query=1462at3041	DEAH-box nuclear pre-mRNA splicing factor
+1475at3041	Missing
+1476at3041	Missing
+1477at3041	Complete	JUBA01000956.1	2077	5115	+	419.1	319	https://www.orthodb.org/v10?query=1477at3041	predicted protein
+1479at3041	Complete	KN805268.1	123	3272	+	397.0	238	https://www.orthodb.org/v10?query=1479at3041	Kinesin-like protein
+1490at3041	Missing
+1503at3041	Fragmented	KN805368.1	6720965	6721821	+	122.9	124	https://www.orthodb.org/v10?query=1503at3041	Dehydroquinate dehydratase
+1504at3041	Missing
+1511at3041	Missing
+1512at3041	Missing
+1514at3041	Complete	JUBA01000036.1	68336	63734	-	446.5	292	https://www.orthodb.org/v10?query=1514at3041	V-type proton ATPase subunit
+1518at3041	Missing
+1529at3041	Fragmented	KN805368.1	7836448	7835380	-	174.0	118	https://www.orthodb.org/v10?query=1529at3041	Anthranilate synthase component I
+1532at3041	Missing
+1535at3041	Missing
+1537at3041	Missing
+1541at3041	Missing
+1553at3041	Missing
+1569at3041	Missing
+1570at3041	Missing
+1574at3041	Fragmented	KN805366.1	1332366	1331983	-	64.8	54	https://www.orthodb.org/v10?query=1574at3041	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1576at3041	Missing
+1578at3041	Complete	JUBA01000720.1	5758	9721	+	612.7	433	https://www.orthodb.org/v10?query=1578at3041	DNA topoisomerase I
+1584at3041	Missing
+1590at3041	Missing
+1593at3041	Fragmented	KN805358.1	315694	315861	+	101.9	48	https://www.orthodb.org/v10?query=1593at3041	Tryptophan synthase
+1594at3041	Missing
+1596at3041	Complete	JUBA01000297.1	8651	6247	-	425.2	353	https://www.orthodb.org/v10?query=1596at3041	Ubiquitin carboxyl-terminal hydrolase 6
+1597at3041	Fragmented	KN805369.1	4616551	4615808	-	353.6	203	https://www.orthodb.org/v10?query=1597at3041	UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase
+1600at3041	Missing
+1601at3041	Missing
+1610at3041	Missing
+1621at3041	Missing
+1622at3041	Fragmented	JUBA01000083.1	32687	31242	-	324.7	176	https://www.orthodb.org/v10?query=1622at3041	Phosphoribulokinase
+1627at3041	Fragmented	KN805361.1	2274433	2273889	-	123.6	109	https://www.orthodb.org/v10?query=1627at3041	Inosine-5'-monophosphate dehydrogenase
+1628at3041	Missing
+1643at3041	Fragmented	JUBA01000394.1	1322	1663	+	169.0	110	https://www.orthodb.org/v10?query=1643at3041	predicted protein
+1666at3041	Missing
+1669at3041	Missing
+1670at3041	Missing
+1683at3041	Complete	KN805362.1	1645788	1644045	-	355.4	242	https://www.orthodb.org/v10?query=1683at3041	Phosphoserine aminotransferase
+1684at3041	Missing
+1691at3041	Missing
+1700at3041	Missing
+1709at3041	Complete	KN805362.1	349282	350636	+	368.8	205	https://www.orthodb.org/v10?query=1709at3041	Cysteine desulfurase
+1715at3041	Missing
+1720at3041	Missing
+1722at3041	Missing
+1727at3041	Fragmented	KN805362.1	1520001	1519262	-	332.9	162	https://www.orthodb.org/v10?query=1727at3041	Eukaryotic translation initiation factor 3 subunit A
+1728at3041	Missing
+1729at3041	Missing
+1737at3041	Missing
+1738at3041	Fragmented	KN805272.1	343543	342920	-	449.5	204	https://www.orthodb.org/v10?query=1738at3041	26S Proteasome regulatory subunit 6A
+1739at3041	Missing
+1740at3041	Missing
+1742at3041	Complete	KN805312.1	1002497	999269	-	530.2	343	https://www.orthodb.org/v10?query=1742at3041	ubiquinol:cytochrome c oxidoreductase 50 kDa core 1 subunit
+1761at3041	Missing
+1763at3041	Fragmented	KN805262.1	119278	119129	-	59.0	37	https://www.orthodb.org/v10?query=1763at3041	Protein pelota homolog
+1770at3041	Missing
+1772at3041	Missing
+1800at3041	Missing
+1804at3041	Missing
+1805at3041	Missing
+1808at3041	Missing
+1815at3041	Fragmented	KN805357.1	771979	840744	+	176.6	123	https://www.orthodb.org/v10?query=1815at3041	Ornithine carbamoyltransferase
+1816at3041	Missing
+1817at3041	Missing
+1820at3041	Missing
+1825at3041	Fragmented	KN805369.1	5139526	5140173	+	209.3	130	https://www.orthodb.org/v10?query=1825at3041	Ankyrin repeat-containing domain
+1826at3041	Complete	KN805367.1	6297678	6299137	+	381.3	188	https://www.orthodb.org/v10?query=1826at3041	Deoxyhypusine synthase
+1842at3041	Fragmented	KN805367.1	535345	536663	+	352.8	164	https://www.orthodb.org/v10?query=1842at3041	Eukaryotic release factor 1
+1848at3041	Missing
+1862at3041	Duplicated	JUBA01000166.1	12310	15546	+	511.4	262	https://www.orthodb.org/v10?query=1862at3041	Ferredoxin--NADP reductase, chloroplastic
+1862at3041	Duplicated	JUBA01000166.1	19370	16134	-	511.4	262	https://www.orthodb.org/v10?query=1862at3041	Ferredoxin--NADP reductase, chloroplastic
+1863at3041	Complete	KN805362.1	545635	540378	-	532.1	383	https://www.orthodb.org/v10?query=1863at3041	Protoporphyrinogen oxidase
+1864at3041	Fragmented	KN805305.1	1336451	1337599	+	191.3	124	https://www.orthodb.org/v10?query=1864at3041	Phosphoacetylglucosamine mutase
+1872at3041	Fragmented	KN805279.1	154485	154321	-	75.5	47	https://www.orthodb.org/v10?query=1872at3041	EF-hand domain
+1878at3041	Complete	KN805369.1	7434062	7433841	-	109.6	64	https://www.orthodb.org/v10?query=1878at3041	predicted protein
+1880at3041	Complete	JUBA01000444.1	4335	7900	+	502.4	341	https://www.orthodb.org/v10?query=1880at3041	4-hydroxyphenylpyruvate dioxygenase
+1883at3041	Fragmented	JUBA01000145.1	10036	5691	-	267.1	270	https://www.orthodb.org/v10?query=1883at3041	predicted protein
+1891at3041	Complete	JUBA01000338.1	1787	167	-	416.0	255	https://www.orthodb.org/v10?query=1891at3041	Riboflavin biosynthesis p
+1899at3041	Fragmented	KN805368.1	978415	978077	-	96.9	72	https://www.orthodb.org/v10?query=1899at3041	Squalene monooxygenase
+1917at3041	Missing
+1922at3041	Missing
+1927at3041	Missing
+1937at3041	Fragmented	KN805369.1	6369577	6371984	+	321.8	197	https://www.orthodb.org/v10?query=1937at3041	Plant specific cyclin dependent kinase
+1952at3041	Fragmented	KN805361.1	2207557	2208184	+	244.5	141	https://www.orthodb.org/v10?query=1952at3041	predicted protein
+1955at3041	Missing
+1959at3041	Missing
+1961at3041	Missing
+1966at3041	Fragmented	KN805359.1	1051583	1050966	-	270.8	158	https://www.orthodb.org/v10?query=1966at3041	Pyridoxal phosphate-dependent transferase
+1967at3041	Missing
+1974at3041	Missing
+1985at3041	Complete	JUBA01000107.1	17998	14743	-	354.5	208	https://www.orthodb.org/v10?query=1985at3041	p-loop containing nucleoside triphosphate hydrolase
+1990at3041	Missing
+1997at3041	Complete	KN805301.1	1510	3544	+	411.2	294	https://www.orthodb.org/v10?query=1997at3041	predicted protein
+1998at3041	Missing
+2002at3041	Complete	KN805367.1	2846250	2840237	-	359.4	226	https://www.orthodb.org/v10?query=2002at3041	Carboxypeptidase Taq
+2014at3041	Missing
+2020at3041	Complete	KN805367.1	3970596	3969812	-	311.8	175	https://www.orthodb.org/v10?query=2020at3041	ubiquitin activating enzyme E1
+2042at3041	Missing
+2043at3041	Complete	KN805362.1	3333215	3330867	-	421.0	231	https://www.orthodb.org/v10?query=2043at3041	Chlorophyll synthetase
+2044at3041	Missing
+2051at3041	Missing
+2054at3041	Missing
+2057at3041	Missing
+2068at3041	Missing
+2069at3041	Complete	KN805267.1	592706	592023	-	340.2	188	https://www.orthodb.org/v10?query=2069at3041	Cystathionine gamma-synthase
+2073at3041	Complete	KN805366.1	1198659	1199291	+	268.7	183	https://www.orthodb.org/v10?query=2073at3041	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+2088at3041	Missing
+2101at3041	Missing
+2104at3041	Fragmented	KN805353.1	3123	3905	+	257.1	124	https://www.orthodb.org/v10?query=2104at3041	Splicing factor 3a, subunit 3
+2109at3041	Missing
+2110at3041	Missing
+2112at3041	Missing
+2124at3041	Complete	KN805367.1	1488376	1489471	+	249.0	197	https://www.orthodb.org/v10?query=2124at3041	NADH:ubiquinone oxidoreductase 39 kDa subunit
+2130at3041	Missing
+2134at3041	Missing
+2137at3041	Missing
+2139at3041	Missing
+2152at3041	Missing
+2159at3041	Missing
+2181at3041	Missing
+2182at3041	Missing
+2202at3041	Missing
+2228at3041	Missing
+2231at3041	Fragmented	KN805361.1	2107235	2107008	-	93.0	70	https://www.orthodb.org/v10?query=2231at3041	Beta-catenin-like protein 1
+2233at3041	Missing
+2243at3041	Missing
+2251at3041	Missing
+2257at3041	Missing
+2261at3041	Complete	JUBA01000033.1	37729	34996	-	536.9	289	https://www.orthodb.org/v10?query=2261at3041	Ribosomal RNA methyltransferase,Spb1,C-terminal
+2267at3041	Missing
+2268at3041	Missing
+2269at3041	Missing
+2281at3041	Fragmented	KN805362.1	1651669	1653273	+	242.2	178	https://www.orthodb.org/v10?query=2281at3041	Farnesyl diphosphate synthase
+2282at3041	Missing
+2298at3041	Missing
+2317at3041	Missing
+2318at3041	Missing
+2327at3041	Complete	JUBA01000083.1	40822	37783	-	133.1	233	https://www.orthodb.org/v10?query=2327at3041	Nucleolar 14
+2338at3041	Missing
+2358at3041	Complete	KN805368.1	2395961	2397221	+	281.6	173	https://www.orthodb.org/v10?query=2358at3041	Ferrodoxin-fold anticodon-binding domain
+2366at3041	Missing
+2367at3041	Missing
+2370at3041	Missing
+2380at3041	Missing
+2390at3041	Missing
+2395at3041	Complete	KN805368.1	2148079	2149227	+	610.5	285	https://www.orthodb.org/v10?query=2395at3041	Ser/thr kinase
+2397at3041	Missing
+2400at3041	Missing
+2403at3041	Missing
+2404at3041	Fragmented	KN805361.1	38940	36705	-	303.6	245	https://www.orthodb.org/v10?query=2404at3041	predicted protein
+2423at3041	Missing
+2426at3041	Complete	KN805359.1	1434749	1436857	+	459.6	260	https://www.orthodb.org/v10?query=2426at3041	WD40-repeat-containing domain
+2455at3041	Complete	KN805358.1	2334632	2337046	+	272.5	207	https://www.orthodb.org/v10?query=2455at3041	Glucose-6-phosphate 1-epimerase
+2461at3041	Missing
+2463at3041	Missing
+2467at3041	Missing
+2470at3041	Fragmented	KN805367.1	2938797	2939262	+	203.6	121	https://www.orthodb.org/v10?query=2470at3041	Double-strand break repair protein MRE11
+2490at3041	Complete	KN805361.1	998044	996539	-	226.6	219	https://www.orthodb.org/v10?query=2490at3041	Steroid dehydrogenase
+2496at3041	Missing
+2497at3041	Fragmented	JUBA01000421.1	1725	827	-	109.8	106	https://www.orthodb.org/v10?query=2497at3041	D-arabinono-1,4-lactone oxidase
+2499at3041	Missing
+2505at3041	Missing
+2520at3041	Missing
+2521at3041	Missing
+2523at3041	Missing
+2528at3041	Missing
+2531at3041	Missing
+2533at3041	Missing
+2544at3041	Missing
+2547at3041	Complete	JUBA01000214.1	7378	5018	-	477.6	317	https://www.orthodb.org/v10?query=2547at3041	RNA 3'-terminal phosphate cyclase
+2553at3041	Missing
+2555at3041	Missing
+2576at3041	Missing
+2580at3041	Missing
+2581at3041	Missing
+2583at3041	Missing
+2598at3041	Missing
+2599at3041	Missing
+2618at3041	Missing
+2639at3041	Fragmented	KN805369.1	6589764	6589441	-	178.7	96	https://www.orthodb.org/v10?query=2639at3041	peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+2654at3041	Missing
+2664at3041	Missing
+2670at3041	Missing
+2671at3041	Missing
+2687at3041	Complete	KN805367.1	4136530	4137414	+	196.6	116	https://www.orthodb.org/v10?query=2687at3041	WD40-repeat-containing domain
+2688at3041	Missing
+2694at3041	Complete	KN805368.1	2829204	2828186	-	325.2	208	https://www.orthodb.org/v10?query=2694at3041	Kinesin-like protein
+2699at3041	Missing
+2720at3041	Fragmented	KN805369.1	5512962	5511724	-	265.9	155	https://www.orthodb.org/v10?query=2720at3041	Winged helix-like DNA-binding domain superfamily
+2721at3041	Complete	KN805369.1	5102902	5104173	+	314.3	191	https://www.orthodb.org/v10?query=2721at3041	Translation initiation factor 2, alpha subunit
+2722at3041	Missing
+2724at3041	Missing
+2728at3041	Complete	KN805267.1	439163	442795	+	359.7	269	https://www.orthodb.org/v10?query=2728at3041	Metal-dependent protein hydrolase
+2729at3041	Missing
+2743at3041	Missing
+2749at3041	Missing
+2773at3041	Missing
+2782at3041	Missing
+2802at3041	Missing
+2815at3041	Complete	KN805368.1	3315867	3317296	+	282.4	185	https://www.orthodb.org/v10?query=2815at3041	Phosphoribosylamine--glycine ligase
+2820at3041	Missing
+2831at3041	Missing
+2837at3041	Missing
+2843at3041	Missing
+2851at3041	Fragmented	KN805367.1	6378763	6379532	+	327.2	140	https://www.orthodb.org/v10?query=2851at3041	26S proteasome non-ATPase regulatory subunit 14
+2855at3041	Missing
+2863at3041	Fragmented	JUBA01000233.1	9548	8433	-	203.7	169	https://www.orthodb.org/v10?query=2863at3041	Eukaryotic translation initiation factor 3 subunit I
+2869at3041	Missing
+2871at3041	Missing
+2876at3041	Complete	JUBA01000452.1	1518	3987	+	267.9	156	https://www.orthodb.org/v10?query=2876at3041	Actin superfamily
+2878at3041	Missing
+2892at3041	Missing
+2896at3041	Missing
+2903at3041	Missing
+2909at3041	Fragmented	KN805358.1	2587965	2607413	+	210.4	188	https://www.orthodb.org/v10?query=2909at3041	NADPH
+2919at3041	Complete	KN805279.1	128863	125711	-	350.8	342	https://www.orthodb.org/v10?query=2919at3041	U3 small nucleolar RNA-associated 6-like protein
+2930at3041	Missing
+2931at3041	Complete	KN805369.1	1182971	1184057	+	578.7	260	https://www.orthodb.org/v10?query=2931at3041	Protein kinase
+2932at3041	Missing
+2936at3041	Missing
+2940at3041	Missing
+2941at3041	Missing
+2945at3041	Fragmented	KN805272.1	345897	344828	-	206.8	139	https://www.orthodb.org/v10?query=2945at3041	Mitochondrial carrier family
+2954at3041	Missing
+2959at3041	Missing
+2960at3041	Missing
+2969at3041	Missing
+2971at3041	Missing
+2976at3041	Missing
+2983at3041	Complete	KN805263.1	109261	110175	+	274.9	249	https://www.orthodb.org/v10?query=2983at3041	Protein kinase
+2984at3041	Complete	KN805363.1	102933	106369	+	347.8	253	https://www.orthodb.org/v10?query=2984at3041	Glutamic-gamma-semialdehyde dehydrogenase
+2988at3041	Missing
+2990at3041	Missing
+3005at3041	Fragmented	KN805272.1	53722	53054	-	197.3	115	https://www.orthodb.org/v10?query=3005at3041	Putative 26S proteasome non-ATPase regulatory subunit 7
+3009at3041	Complete	KN805361.1	275441	271058	-	497.8	344	https://www.orthodb.org/v10?query=3009at3041	pepsin-type aspartyl protease
+3012at3041	Missing
+3019at3041	Fragmented	KN805357.1	1325100	1324804	-	61.7	79	https://www.orthodb.org/v10?query=3019at3041	SKI-interacting protein, SKIP
+3020at3041	Missing
+3022at3041	Missing
+3028at3041	Missing
+3029at3041	Missing
+3034at3041	Missing
+3050at3041	Complete	KN805369.1	3728811	3730455	+	326.2	244	https://www.orthodb.org/v10?query=3050at3041	Clp1, N-terminal beta-sandwich domain
+3061at3041	Missing
+3062at3041	Complete	KN805361.1	3426193	3425589	-	233.3	135	https://www.orthodb.org/v10?query=3062at3041	Low-CO2-inducible protein
+3069at3041	Missing
+3079at3041	Missing
+3080at3041	Missing
+3096at3041	Missing
+3106at3041	Missing
+3112at3041	Missing
+3119at3041	Complete	JUBA01000140.1	9575	14411	+	223.1	426	https://www.orthodb.org/v10?query=3119at3041	NADPH-dependent diflavin oxidoreductase 1
+3120at3041	Complete	JUBA01000204.1	8068	4610	-	424.9	250	https://www.orthodb.org/v10?query=3120at3041	Gamma-tocopherol methyltransferase
+3121at3041	Missing
+3123at3041	Missing
+3133at3041	Fragmented	KN805323.1	20775	21495	+	89.6	58	https://www.orthodb.org/v10?query=3133at3041	Malate dehydrogenase
+3137at3041	Missing
+3144at3041	Missing
+3145at3041	Complete	KN805353.1	387904	391161	+	168.9	120	https://www.orthodb.org/v10?query=3145at3041	flagellar/basal body protein, PACRG-like protein
+3151at3041	Fragmented	KN805369.1	849181	849402	+	61.0	58	https://www.orthodb.org/v10?query=3151at3041	subunit of the VPS-C complex
+3152at3041	Missing
+3153at3041	Missing
+3173at3041	Missing
+3178at3041	Complete	KN805367.1	5579435	5577699	-	325.8	223	https://www.orthodb.org/v10?query=3178at3041	3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal
+3179at3041	Complete	KN805285.1	8468	6231	-	263.6	212	https://www.orthodb.org/v10?query=3179at3041	predicted protein
+3181at3041	Missing
+3188at3041	Missing
+3198at3041	Fragmented	KN805330.1	7	1421	+	348.5	200	https://www.orthodb.org/v10?query=3198at3041	26S proteasome regulatory subunit
+3202at3041	Missing
+3208at3041	Missing
+3216at3041	Missing
+3217at3041	Missing
+3222at3041	Missing
+3232at3041	Missing
+3239at3041	Complete	KN805353.1	280281	282133	+	242.1	234	https://www.orthodb.org/v10?query=3239at3041	translation elongation factor 1-alpha
+3240at3041	Missing
+3254at3041	Missing
+3261at3041	Missing
+3277at3041	Missing
+3291at3041	Fragmented	KN805361.1	3228903	3227446	-	249.3	151	https://www.orthodb.org/v10?query=3291at3041	predicted protein
+3297at3041	Missing
+3304at3041	Complete	KN805348.1	24420	26419	+	174.0	125	https://www.orthodb.org/v10?query=3304at3041	Cwf19-like, C-terminal domain-1
+3306at3041	Missing
+3312at3041	Fragmented	KN805353.1	693473	693953	+	120.2	72	https://www.orthodb.org/v10?query=3312at3041	Rcd1-like protein
+3315at3041	Missing
+3323at3041	Missing
+3333at3041	Missing
+3337at3041	Missing
+3338at3041	Fragmented	KN805369.1	5186852	5187417	+	159.1	85	https://www.orthodb.org/v10?query=3338at3041	40S ribosomal protein S4
+3350at3041	Missing
+3352at3041	Missing
+3355at3041	Missing
+3370at3041	Fragmented	KN805369.1	2295382	2297029	+	255.7	146	https://www.orthodb.org/v10?query=3370at3041	molybdenum cofactor biosynthesis prote
+3371at3041	Missing
+3373at3041	Missing
+3375at3041	Missing
+3380at3041	Complete	KN805366.1	1304725	1304048	-	219.3	130	https://www.orthodb.org/v10?query=3380at3041	ATPase family AAA domain-containing protein 3
+3391at3041	Missing
+3396at3041	Missing
+3398at3041	Missing
+3407at3041	Missing
+3408at3041	Missing
+3411at3041	Missing
+3417at3041	Missing
+3418at3041	Missing
+3428at3041	Complete	KN805358.1	2308487	2307595	-	274.2	162	https://www.orthodb.org/v10?query=3428at3041	iron-sulfur cluster assembly protein
+3434at3041	Missing
+3438at3041	Missing
+3446at3041	Missing
+3454at3041	Complete	KN805305.1	521258	522758	+	313.0	194	https://www.orthodb.org/v10?query=3454at3041	Eukaryotic translation initiation factor 5
+3456at3041	Missing
+3483at3041	Complete	JUBA01000644.1	5131	6982	+	147.1	163	https://www.orthodb.org/v10?query=3483at3041	predicted protein
+3493at3041	Fragmented	KN805366.1	1770313	1771049	+	80.8	77	https://www.orthodb.org/v10?query=3493at3041	Glucokinase
+3499at3041	Missing
+3509at3041	Fragmented	KN805368.1	3546406	3543879	-	137.4	83	https://www.orthodb.org/v10?query=3509at3041	Serine/threonine-protein phosphatase 2A activator
+3514at3041	Missing
+3537at3041	Missing
+3540at3041	Missing
+3554at3041	Fragmented	KN805367.1	2781462	2780921	-	194.1	92	https://www.orthodb.org/v10?query=3554at3041	4Fe-4S ferredoxin, iron-sulphur binding,conserved site
+3556at3041	Missing
+3558at3041	Missing
+3559at3041	Complete	JUBA01000083.1	9989	11190	+	357.1	204	https://www.orthodb.org/v10?query=3559at3041	Eukaryotic translation initiation factor 6
+3562at3041	Missing
+3583at3041	Missing
+3587at3041	Complete	JUBA01000094.1	21653	23050	+	266.0	198	https://www.orthodb.org/v10?query=3587at3041	PPM-type phosphatase domain
+3588at3041	Fragmented	JUBA01000144.1	19020	18472	-	135.6	107	https://www.orthodb.org/v10?query=3588at3041	rRNA adenine N(6)-methyltransferase
+3591at3041	Complete	KN805367.1	2663093	2662389	-	170.0	151	https://www.orthodb.org/v10?query=3591at3041	WD40-repeat-containing domain
+3613at3041	Complete	KN805368.1	6873267	6874889	+	391.5	206	https://www.orthodb.org/v10?query=3613at3041	KRR1 small subunit processome component
+3614at3041	Fragmented	KN805369.1	5643884	5643049	-	171.8	124	https://www.orthodb.org/v10?query=3614at3041	Aspartate carbamoyltransferase
+3618at3041	Complete	KN805367.1	605678	604575	-	360.1	201	https://www.orthodb.org/v10?query=3618at3041	Cytochrome c-like domain
+3621at3041	Complete	KN805367.1	2497963	2499115	+	305.7	213	https://www.orthodb.org/v10?query=3621at3041	Ribose-5-phosphate isomerase
+3624at3041	Missing
+3629at3041	Complete	KN805368.1	7919354	7918251	-	175.8	135	https://www.orthodb.org/v10?query=3629at3041	trf4 poly(A) polymerase
+3644at3041	Complete	JUBA01000194.1	7102	10057	+	359.3	311	https://www.orthodb.org/v10?query=3644at3041	P-loop containing nucleoside triphosphate hydrolase
+3646at3041	Missing
+3673at3041	Missing
+3678at3041	Complete	KN805369.1	3141659	3142870	+	296.5	170	https://www.orthodb.org/v10?query=3678at3041	Cytochrome c heme lyase
+3687at3041	Missing
+3692at3041	Missing
+3697at3041	Fragmented	KN805265.1	81863	82641	+	242.2	124	https://www.orthodb.org/v10?query=3697at3041	Proteasome subunit beta type
+3706at3041	Missing
+3709at3041	Missing
+3711at3041	Complete	KN805336.1	3034	4513	+	378.9	257	https://www.orthodb.org/v10?query=3711at3041	Probable magnesium transporter
+3717at3041	Missing
+3721at3041	Complete	KN805362.1	1146539	1159644	+	275.0	160	https://www.orthodb.org/v10?query=3721at3041	NADH
+3733at3041	Missing
+3758at3041	Missing
+3760at3041	Missing
+3774at3041	Missing
+3802at3041	Complete	KN805298.1	1767	4162	+	435.0	288	https://www.orthodb.org/v10?query=3802at3041	Flap endonuclease 1
+3806at3041	Fragmented	KN805353.1	1418957	1419450	+	253.1	124	https://www.orthodb.org/v10?query=3806at3041	Splicing factor-like protein
+3820at3041	Missing
+3835at3041	Fragmented	KN805312.1	930751	930936	+	117.6	60	https://www.orthodb.org/v10?query=3835at3041	rRNA 2'-O-methyltransferase fibrillarin
+3840at3041	Complete	JUBA01000259.1	7744	17418	+	544.2	579	https://www.orthodb.org/v10?query=3840at3041	WD40/YVTN repeat-like-containing domain
+3854at3041	Fragmented	KN805358.1	1972116	1972976	+	163.7	124	https://www.orthodb.org/v10?query=3854at3041	glycosyl transferase
+3864at3041	Complete	JUBA01000048.1	22860	19813	-	215.8	178	https://www.orthodb.org/v10?query=3864at3041	Protein phosphatase methylesterase 1
+3867at3041	Missing
+3869at3041	Missing
+3870at3041	Missing
+3885at3041	Missing
+3892at3041	Complete	KN805361.1	3413884	3412496	-	306.2	211	https://www.orthodb.org/v10?query=3892at3041	Protein kinase
+3893at3041	Missing
+3895at3041	Fragmented	JUBA01000382.1	1334	1633	+	72.1	61	https://www.orthodb.org/v10?query=3895at3041	K Homology domain, type 1
+3903at3041	Complete	JUBA01000364.1	4509	3348	-	219.3	191	https://www.orthodb.org/v10?query=3903at3041	Trypsin-like serine protease
+3911at3041	Complete	KN805357.1	1263643	1261884	-	291.8	215	https://www.orthodb.org/v10?query=3911at3041	Nucleotide-binding, alpha-beta plait
+3914at3041	Complete	KN805362.1	2470294	2468842	-	294.7	177	https://www.orthodb.org/v10?query=3914at3041	Proteasome subunit alpha type
+3946at3041	Missing
+3950at3041	Missing
+3954at3041	Missing
+3955at3041	Missing
+3974at3041	Missing
+3977at3041	Missing
+3988at3041	Missing
+3994at3041	Missing
+3998at3041	Missing
+4012at3041	Missing
+4016at3041	Missing
+4023at3041	Missing
+4047at3041	Missing
+4050at3041	Missing
+4055at3041	Missing
+4057at3041	Missing
+4058at3041	Missing
+4063at3041	Missing
+4065at3041	Missing
+4072at3041	Missing
+4074at3041	Missing
+4080at3041	Missing
+4081at3041	Missing
+4083at3041	Missing
+4084at3041	Missing
+4086at3041	Missing
+4087at3041	Complete	KN805362.1	189842	189420	-	132.4	102	https://www.orthodb.org/v10?query=4087at3041	predicted protein
+4088at3041	Missing
+4101at3041	Missing
+4102at3041	Fragmented	JUBA01000150.1	6360	5585	-	134.5	92	https://www.orthodb.org/v10?query=4102at3041	violaxanthin de-epoxidase
+4109at3041	Missing
+4122at3041	Missing
+4127at3041	Missing
+4129at3041	Missing
+4134at3041	Missing
+4140at3041	Missing
+4143at3041	Missing
+4146at3041	Missing
+4147at3041	Missing
+4152at3041	Missing
+4155at3041	Missing
+4156at3041	Complete	KN805357.1	1912034	1911867	-	123.3	55	https://www.orthodb.org/v10?query=4156at3041	WRKY domain
+4160at3041	Complete	KN805353.1	884128	886386	+	329.2	273	https://www.orthodb.org/v10?query=4160at3041	predicted protein
+4188at3041	Missing
+4194at3041	Missing
+4200at3041	Fragmented	KN805367.1	800416	800994	+	227.6	135	https://www.orthodb.org/v10?query=4200at3041	RNA lariat debranching enzyme
+4202at3041	Missing
+4203at3041	Fragmented	KN805359.1	1757887	1757702	-	81.9	57	https://www.orthodb.org/v10?query=4203at3041	Spermidine synthase
+4204at3041	Missing
+4217at3041	Fragmented	KN805290.1	1317237	1317963	+	191.9	135	https://www.orthodb.org/v10?query=4217at3041	predicted protein
+4230at3041	Missing
+4231at3041	Fragmented	KN805366.1	551573	552434	+	225.0	127	https://www.orthodb.org/v10?query=4231at3041	Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase
+4242at3041	Complete	KN805264.1	58107	60179	+	400.1	237	https://www.orthodb.org/v10?query=4242at3041	p-loop containing nucleoside triphosphate hydrolase
+4253at3041	Complete	KN805362.1	1873595	1872638	-	338.2	236	https://www.orthodb.org/v10?query=4253at3041	Eukaryotic translation initiation factor 3 subunit H
+4255at3041	Fragmented	KN805341.1	748528	748746	+	87.1	70	https://www.orthodb.org/v10?query=4255at3041	DNA polymerase epsilon subunit
+4257at3041	Missing
+4259at3041	Missing
+4262at3041	Missing
+4267at3041	Missing
+4288at3041	Missing
+4289at3041	Duplicated	KN805286.1	27656	28806	+	408.4	193	https://www.orthodb.org/v10?query=4289at3041	GTP-binding nuclear protein
+4289at3041	Duplicated	KN805367.1	1964281	1963476	-	366.6	159	https://www.orthodb.org/v10?query=4289at3041	GTP-binding nuclear protein
+4290at3041	Complete	KN805367.1	5908911	5909753	+	332.6	162	https://www.orthodb.org/v10?query=4290at3041	Small rab-related GTPase
+4292at3041	Missing
+4294at3041	Missing
+4295at3041	Missing
+4299at3041	Missing
+4300at3041	Missing
+4302at3041	Fragmented	KN805267.1	598637	597544	-	176.4	179	https://www.orthodb.org/v10?query=4302at3041	WD40-repeat-containing domain
+4308at3041	Missing
+4310at3041	Missing
+4312at3041	Missing
+4317at3041	Missing
+4322at3041	Missing
+4327at3041	Complete	KN805353.1	1750965	1752320	+	342.3	203	https://www.orthodb.org/v10?query=4327at3041	GPN-loop GTPase
+4331at3041	Missing
+4348at3041	Missing
+4351at3041	Missing
+4374at3041	Fragmented	KN805366.1	2012440	2013190	+	123.5	128	https://www.orthodb.org/v10?query=4374at3041	predicted protein
+4376at3041	Complete	JUBA01000238.1	5407	7884	+	300.4	196	https://www.orthodb.org/v10?query=4376at3041	Carbon-nitrogen hydrolase
+4381at3041	Complete	KN805366.1	1533614	1534872	+	192.3	101	https://www.orthodb.org/v10?query=4381at3041	predicted protein
+4403at3041	Missing
+4405at3041	Complete	JUBA01000243.1	5736	8894	+	234.7	233	https://www.orthodb.org/v10?query=4405at3041	Alpha-SNAP
+4410at3041	Missing
+4417at3041	Missing
+4419at3041	Fragmented	JUBA01000070.1	37805	38739	+	282.1	164	https://www.orthodb.org/v10?query=4419at3041	Ribosomal protein
+4423at3041	Missing
+4427at3041	Fragmented	JUBA01000138.1	30093	30979	+	151.6	139	https://www.orthodb.org/v10?query=4427at3041	glycerate kinase
+4431at3041	Missing
+4439at3041	Fragmented	JUBA01000615.1	1014	676	-	219.8	107	https://www.orthodb.org/v10?query=4439at3041	Proteasome subunit alpha type
+4446at3041	Fragmented	KN805359.1	215344	215915	+	189.4	112	https://www.orthodb.org/v10?query=4446at3041	predicted protein
+4458at3041	Fragmented	KN805361.1	2938099	2938932	+	264.2	173	https://www.orthodb.org/v10?query=4458at3041	Ribosome biogenesis protein RPF1
+4506at3041	Missing
+4511at3041	Fragmented	KN805362.1	3104681	3105309	+	96.5	107	https://www.orthodb.org/v10?query=4511at3041	Golgi SNAP receptor complex member 1
+4514at3041	Missing
+4519at3041	Missing
+4520at3041	Complete	JUBA01000243.1	11367	12113	+	199.8	197	https://www.orthodb.org/v10?query=4520at3041	Exosome complex component RRP43
+4530at3041	Complete	KN805264.1	109984	108433	-	184.3	143	https://www.orthodb.org/v10?query=4530at3041	Proteasome subunit alpha type
+4533at3041	Complete	KN805361.1	131648	130914	-	211.8	140	https://www.orthodb.org/v10?query=4533at3041	Eukaryotic translation initiation factor 4E
+4544at3041	Missing
+4546at3041	Duplicated	KN805312.1	856848	858445	+	260.1	185	https://www.orthodb.org/v10?query=4546at3041	P-loop containing nucleoside triphosphate hydrolase protein
+4546at3041	Duplicated	KN805341.1	1300550	1298953	-	260.1	185	https://www.orthodb.org/v10?query=4546at3041	P-loop containing nucleoside triphosphate hydrolase protein
+4550at3041	Missing
+4553at3041	Missing
+4558at3041	Complete	KN805369.1	2440641	2441657	+	260.8	194	https://www.orthodb.org/v10?query=4558at3041	Mannose-6-phosphate isomerase
+4563at3041	Complete	KN805287.1	16218	13724	-	302.2	236	https://www.orthodb.org/v10?query=4563at3041	PsaB RNA binding protein
+4566at3041	Missing
+4567at3041	Missing
+4573at3041	Complete	KN805361.1	3550478	3547142	-	242.2	201	https://www.orthodb.org/v10?query=4573at3041	Pantoate--beta-alanine ligase
+4580at3041	Missing
+4583at3041	Complete	KN805369.1	1138003	1138614	+	80.8	164	https://www.orthodb.org/v10?query=4583at3041	Short-chain dehydrogenase/reductase SDR
+4599at3041	Missing
+4604at3041	Missing
+4605at3041	Missing
+4606at3041	Missing
+4608at3041	Missing
+4609at3041	Missing
+4619at3041	Missing
+4624at3041	Missing
+4627at3041	Missing
+4630at3041	Fragmented	KN805290.1	1110771	1111276	+	78.6	97	https://www.orthodb.org/v10?query=4630at3041	Short-chain dehydrogenase/reductase, conserved site
+4633at3041	Missing
+4664at3041	Missing
+4665at3041	Complete	JUBA01000398.1	8285	9722	+	272.3	164	https://www.orthodb.org/v10?query=4665at3041	Adenylate kinase
+4667at3041	Missing
+4670at3041	Complete	KN805268.1	9168	7520	-	324.2	180	https://www.orthodb.org/v10?query=4670at3041	Ribosomal protein L10e/L16
+4686at3041	Missing
+4690at3041	Missing
+4693at3041	Fragmented	KN805369.1	6103455	6102930	-	154.3	105	https://www.orthodb.org/v10?query=4693at3041	Serine/threonine protein kinase
+4697at3041	Missing
+4703at3041	Missing
+4708at3041	Missing
+4718at3041	Complete	KN805362.1	89925	90811	+	172.4	114	https://www.orthodb.org/v10?query=4718at3041	Pre-mRNA-splicing factor
+4728at3041	Missing
+4734at3041	Missing
+4751at3041	Missing
+4754at3041	Complete	KN805270.1	69758	71095	+	398.6	226	https://www.orthodb.org/v10?query=4754at3041	Chlorophyll a-b binding protein, chloroplastic
+4758at3041	Missing
+4759at3041	Missing
+4763at3041	Complete	KN805361.1	3007297	3002009	-	252.6	265	https://www.orthodb.org/v10?query=4763at3041	Dihydroxyacetone kinase
+4778at3041	Missing
+4797at3041	Missing
+4800at3041	Complete	KN805368.1	1358843	1359554	+	265.8	161	https://www.orthodb.org/v10?query=4800at3041	Longin domain
+4808at3041	Fragmented	KN805359.1	1846551	1847335	+	166.0	107	https://www.orthodb.org/v10?query=4808at3041	Riboflavin kinase
+4813at3041	Missing
+4822at3041	Missing
+4824at3041	Missing
+4825at3041	Missing
+4835at3041	Complete	KN805368.1	4053336	4052538	-	277.1	156	https://www.orthodb.org/v10?query=4835at3041	Ribosomal protein S3, C-terminal
+4840at3041	Fragmented	KN805267.1	362881	363300	+	138.3	76	https://www.orthodb.org/v10?query=4840at3041	Ribosomal protein
+4847at3041	Complete	JUBA01000561.1	7636	3983	-	296.9	210	https://www.orthodb.org/v10?query=4847at3041	S-adenosyl-L-methionine-dependent methyltransferase
+4855at3041	Missing
+4864at3041	Missing
+4872at3041	Fragmented	KN805367.1	4851837	4762358	-	127.3	91	https://www.orthodb.org/v10?query=4872at3041	Nucleoside diphosphate sugar epimerase
+4873at3041	Complete	KN805366.1	1730153	1731028	+	195.1	102	https://www.orthodb.org/v10?query=4873at3041	Anthranilate synthase beta subunit
+4879at3041	Missing
+4884at3041	Missing
+4899at3041	Missing
+4904at3041	Missing
+4924at3041	Missing
+4927at3041	Fragmented	KN805369.1	3207004	3207867	+	193.0	120	https://www.orthodb.org/v10?query=4927at3041	predicted protein
+4933at3041	Missing
+4937at3041	Missing
+4943at3041	Complete	KN805367.1	7758957	7756067	-	419.6	267	https://www.orthodb.org/v10?query=4943at3041	homogentisate solanesyltransferase
+4945at3041	Missing
+4951at3041	Fragmented	KN805267.1	655241	655894	+	75.0	79	https://www.orthodb.org/v10?query=4951at3041	predicted protein
+4956at3041	Complete	KN805367.1	7764647	7763970	-	270.0	158	https://www.orthodb.org/v10?query=4956at3041	Ubiquitin-like domain-containing CTD phosphatase 1
+4958at3041	Duplicated	KN805366.1	1566225	1566986	+	295.1	224	https://www.orthodb.org/v10?query=4958at3041	3,2-trans-enoyl-CoA isomerase, mitochondrial
+4958at3041	Duplicated	KN805367.1	1208546	1209226	+	277.6	199	https://www.orthodb.org/v10?query=4958at3041	3,2-trans-enoyl-CoA isomerase, mitochondrial
+4958at3041	Duplicated	KN805367.1	6243385	6242624	-	295.1	224	https://www.orthodb.org/v10?query=4958at3041	3,2-trans-enoyl-CoA isomerase, mitochondrial
+4962at3041	Complete	KN805354.1	8625	7274	-	327.8	227	https://www.orthodb.org/v10?query=4962at3041	predicted protein
+4971at3041	Missing
+4972at3041	Missing
+4975at3041	Fragmented	KN805369.1	4983330	4983061	-	103.4	79	https://www.orthodb.org/v10?query=4975at3041	Pyridoxal phosphate-dependent transferase
+4984at3041	Missing
+4990at3041	Missing
+4993at3041	Missing
+4997at3041	Fragmented	KN805362.1	2951330	2951955	+	175.4	122	https://www.orthodb.org/v10?query=4997at3041	predicted protein
+5005at3041	Missing
+5020at3041	Missing
+5027at3041	Missing
+5035at3041	Complete	KN805369.1	651870	650244	-	226.3	215	https://www.orthodb.org/v10?query=5035at3041	DNA-directed RNA polymerase, insert domain
+5044at3041	Complete	JUBA01000258.1	16768	27336	+	311.0	245	https://www.orthodb.org/v10?query=5044at3041	DNA primase large subunit
+5047at3041	Missing
+5053at3041	Fragmented	KN805367.1	3227742	3228162	+	126.5	98	https://www.orthodb.org/v10?query=5053at3041	R-SNARE protein, Sec22-family
+5057at3041	Fragmented	KN805367.1	6935164	6934224	-	193.5	125	https://www.orthodb.org/v10?query=5057at3041	40S ribosomal protein S7
+5058at3041	Missing
+5060at3041	Complete	KN805369.1	455710	456441	+	283.1	149	https://www.orthodb.org/v10?query=5060at3041	RNA recognition motif domain
+5064at3041	Missing
+5073at3041	Missing
+5075at3041	Missing
+5076at3041	Missing
+5080at3041	Missing
+5094at3041	Fragmented	KN805362.1	353932	354721	+	199.5	96	https://www.orthodb.org/v10?query=5094at3041	Small rab-related GTPase
+5095at3041	Missing
+5102at3041	Complete	KN805369.1	3880627	3879523	-	167.8	183	https://www.orthodb.org/v10?query=5102at3041	predicted protein
+5103at3041	Missing
+5107at3041	Missing
+5108at3041	Missing
+5123at3041	Complete	KN805294.1	10165	12954	+	369.8	243	https://www.orthodb.org/v10?query=5123at3041	ATP synthase subunit gamma
+5129at3041	Missing
+5130at3041	Complete	JUBA01000130.1	2050	4374	+	157.9	176	https://www.orthodb.org/v10?query=5130at3041	Nucleoside phosphorylase domain
+5142at3041	Missing
+5145at3041	Missing
+5163at3041	Missing
+5179at3041	Missing
+5188at3041	Complete	KN805368.1	1382940	1384432	+	213.7	162	https://www.orthodb.org/v10?query=5188at3041	RNA-binding S4 domain
+5213at3041	Complete	KN805341.1	1053733	1052286	-	261.1	190	https://www.orthodb.org/v10?query=5213at3041	DNA-directed RNA polymerase III subunit RPC6
+5224at3041	Missing
+5230at3041	Missing
+5231at3041	Missing
+5236at3041	Complete	KN805362.1	2528023	2527727	-	97.5	61	https://www.orthodb.org/v10?query=5236at3041	Transcription initiation factor TFIID subunit 6
+5240at3041	Missing
+5262at3041	Fragmented	JUBA01000935.1	28	536	+	168.6	94	https://www.orthodb.org/v10?query=5262at3041	ER lumen protein-retaining receptor
+5267at3041	Missing
+5270at3041	Complete	KN805341.1	1125892	1127094	+	230.2	179	https://www.orthodb.org/v10?query=5270at3041	Pre-mRNA splicing factor PRP38 family protein
+5278at3041	Missing
+5279at3041	Missing
+5280at3041	Fragmented	KN805312.1	296924	295684	-	157.7	140	https://www.orthodb.org/v10?query=5280at3041	predicted protein
+5285at3041	Fragmented	KN805369.1	1695876	1697136	+	200.0	150	https://www.orthodb.org/v10?query=5285at3041	Peptide-N4-(N-acetyl-beta-glucosaminyl) asparagine amidase
+5292at3041	Missing
+5301at3041	Complete	KN805363.1	33432	35780	+	233.3	221	https://www.orthodb.org/v10?query=5301at3041	Branched-chain amino acidaminotransferase
+5304at3041	Missing
+5305at3041	Missing
+5317at3041	Missing
+5319at3041	Missing
+5327at3041	Missing
+5335at3041	Fragmented	KN805368.1	6790459	6791216	+	236.9	125	https://www.orthodb.org/v10?query=5335at3041	40S ribosomal protein S8
+5338at3041	Complete	JUBA01000222.1	734	3757	+	214.5	196	https://www.orthodb.org/v10?query=5338at3041	NAD(P)-binding domain
+5343at3041	Complete	KN805366.1	1221762	1219487	-	367.5	238	https://www.orthodb.org/v10?query=5343at3041	predicted protein
+5364at3041	Missing
+5366at3041	Fragmented	KN805368.1	4812258	4812910	+	175.8	106	https://www.orthodb.org/v10?query=5366at3041	peptidyl-prolyl cis-trans isomerase, FKBP-type
+5387at3041	Missing
+5393at3041	Missing
+5398at3041	Missing
+5409at3041	Complete	KN805341.1	1404827	1405801	+	303.0	173	https://www.orthodb.org/v10?query=5409at3041	Proteasome subunit beta type
+5415at3041	Missing
+5420at3041	Complete	KN805367.1	1713204	1712189	-	228.9	214	https://www.orthodb.org/v10?query=5420at3041	actin superfamily
+5422at3041	Missing
+5423at3041	Missing
+5424at3041	Fragmented	KN805358.1	1952383	1953095	+	99.3	67	https://www.orthodb.org/v10?query=5424at3041	peroxisomal targeting signal 1 receptor
+5426at3041	Missing
+5429at3041	Missing
+5430at3041	Missing
+5444at3041	Missing
+5458at3041	Missing
+5472at3041	Missing
+5474at3041	Missing
+5479at3041	Missing
+5496at3041	Missing
+5502at3041	Missing
+5503at3041	Missing
+5512at3041	Missing
+5520at3041	Missing
+5528at3041	Complete	KN805358.1	843285	844124	+	182.5	171	https://www.orthodb.org/v10?query=5528at3041	mitochondrial carrier protein
+5531at3041	Missing
+5533at3041	Missing
+5543at3041	Complete	KN805341.1	374301	375983	+	292.9	241	https://www.orthodb.org/v10?query=5543at3041	6-phosphogluconate dehydrogenase (6PGDH) chloroplast
+5547at3041	Fragmented	KN805305.1	645432	645041	-	124.4	92	https://www.orthodb.org/v10?query=5547at3041	Putative DnaJ subfamily C member 11
+5550at3041	Fragmented	KN805361.1	3624323	3577456	-	113.9	71	https://www.orthodb.org/v10?query=5550at3041	Cytokinesis-related protein
+5551at3041	Missing
+5554at3041	Complete	JUBA01000735.1	47	685	+	271.8	181	https://www.orthodb.org/v10?query=5554at3041	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+5555at3041	Missing
+5561at3041	Missing
+5563at3041	Missing
+5567at3041	Missing
+5568at3041	Missing
+5588at3041	Missing
+5589at3041	Missing
+5590at3041	Missing
+5594at3041	Duplicated	JUBA01000197.1	3072	3975	+	155.4	128	https://www.orthodb.org/v10?query=5594at3041	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+5594at3041	Duplicated	JUBA01000427.1	8918	8015	-	155.4	128	https://www.orthodb.org/v10?query=5594at3041	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+5599at3041	Missing
+5634at3041	Missing
+5635at3041	Missing
+5644at3041	Missing
+5645at3041	Missing
+5657at3041	Missing
+5659at3041	Missing
+5662at3041	Missing
+5677at3041	Missing
+5680at3041	Complete	KN805266.1	80564	82369	+	406.0	273	https://www.orthodb.org/v10?query=5680at3041	Pseudouridine-5'-phosphate glycosidase
+5681at3041	Missing
+5701at3041	Fragmented	KN805289.1	6397	7082	+	94.5	87	https://www.orthodb.org/v10?query=5701at3041	1-acyl-sn-glycerol-3-phosphate acyltransferase
+5702at3041	Complete	KN805359.1	1108184	1108817	+	174.4	112	https://www.orthodb.org/v10?query=5702at3041	zeta-cop, subunit of COP-I complex
+5703at3041	Duplicated	KN805359.1	926072	926777	+	295.1	171	https://www.orthodb.org/v10?query=5703at3041	26S proteasome regulatory subunit
+5703at3041	Duplicated	KN805366.1	2172193	2173276	+	317.6	191	https://www.orthodb.org/v10?query=5703at3041	26S proteasome regulatory subunit
+5705at3041	Complete	KN805360.1	150930	151644	+	179.4	120	https://www.orthodb.org/v10?query=5705at3041	Transcriptional regulator TACO1-like
+5706at3041	Complete	JUBA01000099.1	15380	12888	-	235.2	182	https://www.orthodb.org/v10?query=5706at3041	Zinc finger, RING-type
+5735at3041	Missing
+5737at3041	Fragmented	KN805361.1	1117225	1116422	-	168.2	108	https://www.orthodb.org/v10?query=5737at3041	predicted protein
+5738at3041	Complete	KN805368.1	3789668	3792671	+	266.1	335	https://www.orthodb.org/v10?query=5738at3041	predicted protein
+5744at3041	Missing
+5766at3041	Missing
+5779at3041	Fragmented	KN805359.1	1444438	1446042	+	135.0	137	https://www.orthodb.org/v10?query=5779at3041	Exosome component 10
+5785at3041	Missing
+5786at3041	Missing
+5788at3041	Missing
+5794at3041	Missing
+5796at3041	Missing
+5802at3041	Missing
+5818at3041	Missing
+5822at3041	Complete	KN805348.1	10419	8974	-	260.1	152	https://www.orthodb.org/v10?query=5822at3041	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+5825at3041	Complete	KN805360.1	144228	140981	-	334.8	288	https://www.orthodb.org/v10?query=5825at3041	predicted protein
+5835at3041	Fragmented	KN805369.1	2270759	2270076	-	102.1	93	https://www.orthodb.org/v10?query=5835at3041	p-loop containing nucleoside triphosphate hydrolase
+5839at3041	Duplicated	JUBA01000259.1	7162	6407	-	263.8	155	https://www.orthodb.org/v10?query=5839at3041	Vacuolar proton-ATPase subunit c'' proteolipid
+5839at3041	Duplicated	KN805305.1	953032	952280	-	263.9	155	https://www.orthodb.org/v10?query=5839at3041	Vacuolar proton-ATPase subunit c'' proteolipid
+5845at3041	Missing
+5849at3041	Missing
+5874at3041	Missing
+5886at3041	Fragmented	KN805362.1	83470	84263	+	346.4	185	https://www.orthodb.org/v10?query=5886at3041	Ubiquitin fusion degradation protein UFD1
+5900at3041	Missing
+5905at3041	Complete	KN805297.1	20281	19574	-	312.7	194	https://www.orthodb.org/v10?query=5905at3041	Isopentenyl-diphosphate delta-isomerase
+5906at3041	Complete	KN805367.1	4549615	4549017	-	178.8	120	https://www.orthodb.org/v10?query=5906at3041	Ribosomal protein L28/L24
+5911at3041	Missing
+5923at3041	Missing
+5929at3041	Missing
+5934at3041	Missing
+5946at3041	Missing
+5950at3041	Missing
+5962at3041	Missing
+5963at3041	Complete	KN805368.1	1306698	1304787	-	358.9	273	https://www.orthodb.org/v10?query=5963at3041	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+5982at3041	Missing
+5988at3041	Complete	KN805353.1	67690	66322	-	191.1	139	https://www.orthodb.org/v10?query=5988at3041	Ribosomal protein L6
+5994at3041	Missing
+6001at3041	Missing
+6002at3041	Complete	JUBA01000144.1	3090	1923	-	271.0	153	https://www.orthodb.org/v10?query=6002at3041	Translation initiation factor IF2/IF5
+6003at3041	Missing
+6005at3041	Fragmented	KN805361.1	1279571	1279046	-	131.9	99	https://www.orthodb.org/v10?query=6005at3041	Complex I intermediate-associated CIA30 protein
+6009at3041	Missing
+6013at3041	Missing
+6017at3041	Complete	KN805290.1	884492	885325	+	235.2	129	https://www.orthodb.org/v10?query=6017at3041	Ribosomal protein L11, C-terminal
+6018at3041	Missing
+6065at3041	Missing
+6072at3041	Missing
+6074at3041	Missing
+6086at3041	Missing
+6097at3041	Fragmented	KN805272.1	293127	292717	-	118.3	106	https://www.orthodb.org/v10?query=6097at3041	V-type proton ATPase subunit C
+6105at3041	Missing
+6111at3041	Missing
+6113at3041	Missing
+6123at3041	Complete	KN805357.1	1982960	1984861	+	320.2	202	https://www.orthodb.org/v10?query=6123at3041	Ribosomal protein L7A/L8
+6144at3041	Missing
+6145at3041	Complete	KN805369.1	5055737	5055304	-	138.5	105	https://www.orthodb.org/v10?query=6145at3041	ATP synthase, F1 complex, delta/epsilon subunit
+6146at3041	Missing
+6156at3041	Missing
+6181at3041	Missing
+6183at3041	Missing
+6187at3041	Fragmented	KN805279.1	264356	264138	-	68.8	58	https://www.orthodb.org/v10?query=6187at3041	predicted protein
+6190at3041	Complete	KN805358.1	2435276	2434078	-	304.2	205	https://www.orthodb.org/v10?query=6190at3041	Leucine-rich repeat
+6192at3041	Missing
+6198at3041	Complete	KN805366.1	2049606	2050213	+	157.0	98	https://www.orthodb.org/v10?query=6198at3041	Ubiquitin-conjugating enzyme
+6207at3041	Missing
+6211at3041	Complete	KN805367.1	6935973	6936398	+	73.8	67	https://www.orthodb.org/v10?query=6211at3041	DNA polymerase, Y-family, little finger domain
+6225at3041	Missing
+6261at3041	Complete	KN805290.1	1322933	1326187	+	291.6	272	https://www.orthodb.org/v10?query=6261at3041	Putative transporter
+6268at3041	Missing
+6282at3041	Missing
+6290at3041	Missing
+6302at3041	Missing
+6319at3041	Fragmented	JUBA01000279.1	19153	18120	-	162.1	121	https://www.orthodb.org/v10?query=6319at3041	predicted protein
+6330at3041	Fragmented	KN805353.1	1168013	1168714	+	163.8	100	https://www.orthodb.org/v10?query=6330at3041	Winged helix-like DNA-binding domain superfamily
+6334at3041	Duplicated	KN805310.1	2658	3810	+	201.2	150	https://www.orthodb.org/v10?query=6334at3041	Trafficking protein particle complex subunit
+6334at3041	Duplicated	KN805361.1	3836266	3835573	-	179.1	128	https://www.orthodb.org/v10?query=6334at3041	Trafficking protein particle complex subunit
+6334at3041	Duplicated	KN805369.1	4939922	4941074	+	201.2	150	https://www.orthodb.org/v10?query=6334at3041	Trafficking protein particle complex subunit
+6345at3041	Fragmented	KN805368.1	7288438	7287486	-	258.3	158	https://www.orthodb.org/v10?query=6345at3041	Tetrapyrrole methylase
+6347at3041	Complete	KN805356.1	330784	328457	-	220.0	188	https://www.orthodb.org/v10?query=6347at3041	MIF4G-like domain superfamily
+6348at3041	Missing
+6355at3041	Missing
+6357at3041	Missing
+6375at3041	Missing
+6381at3041	Fragmented	KN805367.1	5554428	5554144	-	110.6	88	https://www.orthodb.org/v10?query=6381at3041	L-ascorbate peroxidase
+6397at3041	Fragmented	KN805369.1	5082810	5083139	+	130.5	88	https://www.orthodb.org/v10?query=6397at3041	Ferredoxin
+6403at3041	Missing
+6407at3041	Duplicated	KN805282.1	3121	5812	+	370.8	249	https://www.orthodb.org/v10?query=6407at3041	Signal peptide peptidase, eukaryotic-type
+6407at3041	Duplicated	KN805368.1	3410152	3407461	-	370.8	249	https://www.orthodb.org/v10?query=6407at3041	Signal peptide peptidase, eukaryotic-type
+6422at3041	Complete	KN805369.1	7700545	7698222	-	271.8	219	https://www.orthodb.org/v10?query=6422at3041	NUDIX hydrolase
+6423at3041	Fragmented	JUBA01000141.1	36491	35015	-	148.8	164	https://www.orthodb.org/v10?query=6423at3041	hydrolase, alpha/beta fold family-like protein
+6445at3041	Missing
+6448at3041	Complete	KN805367.1	6564273	6560925	-	297.7	232	https://www.orthodb.org/v10?query=6448at3041	putative thioredoxin-like 2 variant 3
+6453at3041	Missing
+6454at3041	Complete	JUBA01000261.1	6345	7309	+	314.4	175	https://www.orthodb.org/v10?query=6454at3041	predicted protein
+6455at3041	Missing
+6476at3041	Missing
+6479at3041	Missing
+6489at3041	Missing
+6490at3041	Complete	KN805267.1	1043820	1045495	+	245.6	231	https://www.orthodb.org/v10?query=6490at3041	60S ribosomal protein L13
+6491at3041	Complete	KN805369.1	5968153	5969580	+	274.7	191	https://www.orthodb.org/v10?query=6491at3041	Pyridoxal phosphate-dependent transferase
+6504at3041	Missing
+6505at3041	Missing
+6506at3041	Missing
+6516at3041	Complete	KN805341.1	394097	395029	+	176.7	119	https://www.orthodb.org/v10?query=6516at3041	Inosine triphosphate pyrophosphatase
+6517at3041	Missing
+6521at3041	Fragmented	KN805353.1	1519876	1520055	+	54.8	49	https://www.orthodb.org/v10?query=6521at3041	Homoserine kinase
+6525at3041	Missing
+6561at3041	Missing
+6562at3041	Missing
+6565at3041	Complete	KN805357.1	1361640	1362066	+	105.4	87	https://www.orthodb.org/v10?query=6565at3041	tRNA (Guanosine(18)-2'-O)-methyltransferase
+6570at3041	Missing
+6571at3041	Missing
+6577at3041	Complete	JUBA01000400.1	5191	7636	+	256.8	180	https://www.orthodb.org/v10?query=6577at3041	Uracil phosphoribosyltransferase
+6583at3041	Missing
+6589at3041	Missing
+6593at3041	Missing
+6602at3041	Missing
+6621at3041	Missing
+6622at3041	Missing
+6623at3041	Complete	KN805305.1	450463	451134	+	239.4	118	https://www.orthodb.org/v10?query=6623at3041	Centrin
+6625at3041	Fragmented	KN805368.1	8079959	8080312	+	61.2	70	https://www.orthodb.org/v10?query=6625at3041	Maf-like protein
+6628at3041	Complete	KN805305.1	458776	458304	-	189.8	119	https://www.orthodb.org/v10?query=6628at3041	RNA-binding S4 domain
+6629at3041	Complete	KN805346.1	8298	10034	+	227.0	149	https://www.orthodb.org/v10?query=6629at3041	60S ribosomal protein L6
+6643at3041	Fragmented	KN805359.1	2740209	2740662	+	122.2	79	https://www.orthodb.org/v10?query=6643at3041	Anaphase-promoting complex subunit 10
+6649at3041	Missing
+6651at3041	Missing
+6653at3041	Missing
+6673at3041	Missing
+6681at3041	Complete	KN805368.1	7370401	7369186	-	185.1	174	https://www.orthodb.org/v10?query=6681at3041	Cyclin-like
+6682at3041	Missing
+6689at3041	Complete	KN805353.1	1723561	1722630	-	230.9	178	https://www.orthodb.org/v10?query=6689at3041	Cycloeucalenol cycloisomerase
+6704at3041	Missing
+6710at3041	Fragmented	KN805369.1	1346302	1345567	-	147.5	100	https://www.orthodb.org/v10?query=6710at3041	60S ribosomal protein L18a
+6717at3041	Missing
+6718at3041	Missing
+6721at3041	Complete	KN805369.1	6052867	6052132	-	217.9	127	https://www.orthodb.org/v10?query=6721at3041	Mago nashi-like protein
+6733at3041	Missing
+6734at3041	Missing
+6738at3041	Fragmented	KN805367.1	6577187	6576649	-	101.8	97	https://www.orthodb.org/v10?query=6738at3041	O-methyltransferase
+6773at3041	Missing
+6774at3041	Complete	KN805368.1	3031292	3030717	-	217.4	125	https://www.orthodb.org/v10?query=6774at3041	Ribosomal protein S19
+6785at3041	Missing
+6799at3041	Missing
+6802at3041	Missing
+6813at3041	Fragmented	KN805358.1	1270858	1271495	+	162.9	106	https://www.orthodb.org/v10?query=6813at3041	Transcription factor IIF
+6836at3041	Complete	KN805341.1	350024	349393	-	204.0	113	https://www.orthodb.org/v10?query=6836at3041	Ubiquitin-conjugating enzyme E2 J1
+6837at3041	Missing
+6847at3041	Missing
+6850at3041	Missing
+6851at3041	Fragmented	KN805369.1	4825225	4824977	-	83.7	68	https://www.orthodb.org/v10?query=6851at3041	predicted protein
+6861at3041	Fragmented	KN805368.1	5058705	5012549	-	116.7	94	https://www.orthodb.org/v10?query=6861at3041	Sugar/carbohydrate kinase
+6870at3041	Missing
+6880at3041	Complete	KN805264.1	51662	51121	-	236.8	134	https://www.orthodb.org/v10?query=6880at3041	Protein RER1
+6885at3041	Fragmented	KN805368.1	7938564	7938484	-	35.0	26	https://www.orthodb.org/v10?query=6885at3041	Putative ethanolamine kinase 1
+6891at3041	Duplicated	JUBA01000083.1	22130	22793	+	120.2	129	https://www.orthodb.org/v10?query=6891at3041	predicted protein
+6891at3041	Duplicated	KN805267.1	1025733	1026396	+	120.2	129	https://www.orthodb.org/v10?query=6891at3041	predicted protein
+6896at3041	Complete	KN805288.1	2132	4150	+	289.5	214	https://www.orthodb.org/v10?query=6896at3041	tRNA pseudouridine synthase
+6897at3041	Complete	KN805358.1	962680	963361	+	205.7	121	https://www.orthodb.org/v10?query=6897at3041	Ribosomal protein L18e/L15P
+6905at3041	Missing
+6909at3041	Complete	KN805359.1	2724700	2725798	+	276.5	175	https://www.orthodb.org/v10?query=6909at3041	Ribosomal protein L15
+6926at3041	Duplicated	JUBA01000412.1	6068	5223	-	275.2	131	https://www.orthodb.org/v10?query=6926at3041	Calmodulin
+6926at3041	Duplicated	KN805367.1	1453057	1452272	-	236.7	114	https://www.orthodb.org/v10?query=6926at3041	Calmodulin
+6930at3041	Fragmented	KN805267.1	369257	369906	+	222.0	162	https://www.orthodb.org/v10?query=6930at3041	Inositol-1-monophosphatase
+6940at3041	Fragmented	KN805312.1	1105946	1104767	-	115.8	80	https://www.orthodb.org/v10?query=6940at3041	Meiotic nuclear division protein 1 homolog
+6952at3041	Complete	KN805362.1	3493463	3495488	+	310.9	209	https://www.orthodb.org/v10?query=6952at3041	tRNA (adenine(58)-N(1))-methyltransferase
+6962at3041	Complete	KN805369.1	1283313	1282568	-	257.3	139	https://www.orthodb.org/v10?query=6962at3041	ubiquitin-conjugating enzyme
+6972at3041	Missing
+6986at3041	Missing
+6987at3041	Missing
+6989at3041	Complete	KN805353.1	260527	261204	+	182.5	157	https://www.orthodb.org/v10?query=6989at3041	Prostaglandin E synthase 2
+6991at3041	Missing
+7007at3041	Missing
+7011at3041	Missing
+7013at3041	Missing
+7014at3041	Missing
+7020at3041	Complete	JUBA01000238.1	4564	472	-	224.4	254	https://www.orthodb.org/v10?query=7020at3041	Ribosome-associated GTPase
+7021at3041	Missing
+7025at3041	Missing
+7030at3041	Complete	KN805357.1	1381770	1352744	-	90.8	115	https://www.orthodb.org/v10?query=7030at3041	predicted protein
+7040at3041	Complete	KN805369.1	4686238	4685057	-	243.5	182	https://www.orthodb.org/v10?query=7040at3041	Presenilin
+7047at3041	Fragmented	KN805267.1	706620	706093	-	172.3	115	https://www.orthodb.org/v10?query=7047at3041	40S ribosomal protein S6
+7051at3041	Duplicated	KN805267.1	1127885	1126852	-	231.4	178	https://www.orthodb.org/v10?query=7051at3041	predicted protein
+7051at3041	Duplicated	KN805368.1	6200838	6203705	+	258.0	236	https://www.orthodb.org/v10?query=7051at3041	predicted protein
+7053at3041	Missing
+7055at3041	Missing
+7058at3041	Missing
+7059at3041	Fragmented	KN805368.1	1823005	1823839	+	183.2	92	https://www.orthodb.org/v10?query=7059at3041	40S ribosomal protein S11
+7062at3041	Missing
+7063at3041	Missing
+7064at3041	Missing
+7067at3041	Missing
+7070at3041	Missing
+7072at3041	Complete	KN805362.1	1322823	1322327	-	151.4	108	https://www.orthodb.org/v10?query=7072at3041	thymidylate kinase
+7087at3041	Missing
+7089at3041	Complete	KN805362.1	2481005	2482180	+	169.5	158	https://www.orthodb.org/v10?query=7089at3041	Kinase-like protein
+7101at3041	Complete	KN805357.1	1588674	1589312	+	253.1	133	https://www.orthodb.org/v10?query=7101at3041	Ribosomal protein L13
+7107at3041	Missing
+7114at3041	Missing
+7118at3041	Missing
+7128at3041	Complete	KN805368.1	7414212	7414723	+	203.6	126	https://www.orthodb.org/v10?query=7128at3041	P-loop containing nucleoside triphosphate hydrolase protein
+7129at3041	Missing
+7132at3041	Missing
+7143at3041	Complete	JUBA01000356.1	10634	15168	+	243.0	233	https://www.orthodb.org/v10?query=7143at3041	predicted protein
+7167at3041	Missing
+7168at3041	Missing
+7184at3041	Missing
+7189at3041	Fragmented	KN805361.1	2150412	2151077	+	263.6	186	https://www.orthodb.org/v10?query=7189at3041	UDP galactose transporter
+7205at3041	Fragmented	KN805353.1	1191447	1191313	-	68.1	42	https://www.orthodb.org/v10?query=7205at3041	predicted protein
+7224at3041	Missing
+7237at3041	Complete	KN805262.1	58794	57828	-	158.1	110	https://www.orthodb.org/v10?query=7237at3041	predicted protein
+7248at3041	Missing
+7254at3041	Duplicated	KN805305.1	421710	422917	+	163.2	176	https://www.orthodb.org/v10?query=7254at3041	predicted protein
+7254at3041	Duplicated	KN805362.1	2105493	2106700	+	163.2	176	https://www.orthodb.org/v10?query=7254at3041	predicted protein
+7265at3041	Missing
+7266at3041	Missing
+7268at3041	Missing
+7269at3041	Complete	KN805367.1	4302481	4303240	+	188.9	163	https://www.orthodb.org/v10?query=7269at3041	thioredoxin-like protein
+7274at3041	Fragmented	KN805369.1	7379870	7378939	-	165.4	112	https://www.orthodb.org/v10?query=7274at3041	tRNA methyltransferase TRM10-type domain
+7276at3041	Complete	KN805359.1	310712	310042	-	112.7	107	https://www.orthodb.org/v10?query=7276at3041	ubiquitin-conjugating enzyme E2
+7288at3041	Fragmented	KN805357.1	697813	698175	+	90.1	61	https://www.orthodb.org/v10?query=7288at3041	Trafficking protein particle complex subunit 4
+7294at3041	Complete	KN805305.1	808132	808737	+	149.1	117	https://www.orthodb.org/v10?query=7294at3041	SKP1 component, dimerisation
+7300at3041	Missing
+7303at3041	Duplicated	KN805357.1	1907763	1907183	-	165.5	79	https://www.orthodb.org/v10?query=7303at3041	Thioredoxin-like protein 4A
+7303at3041	Duplicated	KN805369.1	2529124	2528849	-	167.0	79	https://www.orthodb.org/v10?query=7303at3041	Thioredoxin-like protein 4A
+7308at3041	Fragmented	KN805358.1	1709518	1708789	-	177.7	135	https://www.orthodb.org/v10?query=7308at3041	U3 small nucleolar RNA-associated protein 11
+7319at3041	Missing
+7331at3041	Missing
+7334at3041	Fragmented	KN805367.1	1549066	1548096	-	126.7	113	https://www.orthodb.org/v10?query=7334at3041	predicted protein
+7353at3041	Complete	KN805267.1	488314	489186	+	133.5	104	https://www.orthodb.org/v10?query=7353at3041	predicted protein
+7357at3041	Complete	KN805369.1	7591695	7590467	-	257.2	158	https://www.orthodb.org/v10?query=7357at3041	predicted protein
+7366at3041	Missing
+7378at3041	Missing
+7388at3041	Missing
+7392at3041	Complete	JUBA01000200.1	7063	9215	+	194.3	148	https://www.orthodb.org/v10?query=7392at3041	predicted protein
+7394at3041	Missing
+7397at3041	Missing
+7398at3041	Complete	KN805358.1	1288267	1287778	-	123.1	94	https://www.orthodb.org/v10?query=7398at3041	predicted protein
+7423at3041	Fragmented	KN805267.1	1136036	1136203	+	96.0	50	https://www.orthodb.org/v10?query=7423at3041	Zinc finger, PHD-type
+7428at3041	Complete	KN805368.1	2523255	2524131	+	258.7	150	https://www.orthodb.org/v10?query=7428at3041	gcn5-like n-acetyltransferase
+7434at3041	Complete	KN805290.1	1327619	1326949	-	126.2	92	https://www.orthodb.org/v10?query=7434at3041	NADH
+7448at3041	Missing
+7461at3041	Missing
+7462at3041	Missing
+7468at3041	Complete	KN805361.1	1301376	1302141	+	147.5	112	https://www.orthodb.org/v10?query=7468at3041	Ribonuclease
+7470at3041	Missing
+7494at3041	Missing
+7498at3041	Missing
+7512at3041	Fragmented	KN805368.1	689435	652270	-	103.1	72	https://www.orthodb.org/v10?query=7512at3041	Ribosome biogenesis protein
+7519at3041	Missing
+7539at3041	Missing
+7545at3041	Missing
+7548at3041	Missing
+7564at3041	Fragmented	KN805358.1	164816	164007	-	119.4	81	https://www.orthodb.org/v10?query=7564at3041	predicted protein
+7568at3041	Complete	KN805267.1	753855	754468	+	114.0	110	https://www.orthodb.org/v10?query=7568at3041	predicted protein
+7570at3041	Fragmented	KN805341.1	455842	455399	-	158.9	93	https://www.orthodb.org/v10?query=7570at3041	Acyl-CoA N-acyltransferase
+7577at3041	Complete	JUBA01000308.1	7518	5633	-	336.3	206	https://www.orthodb.org/v10?query=7577at3041	Set domain protein
+7579at3041	Complete	KN805369.1	352593	351083	-	102.1	151	https://www.orthodb.org/v10?query=7579at3041	SOS response associated peptidase-like
+7588at3041	Missing
+7631at3041	Missing
+7633at3041	Complete	JUBA01000588.1	281	1162	+	93.6	104	https://www.orthodb.org/v10?query=7633at3041	Molybdopterin cofactor sulfurase family protein
+7642at3041	Missing
+7646at3041	Missing
+7648at3041	Fragmented	KN805264.1	31761	32322	+	97.6	92	https://www.orthodb.org/v10?query=7648at3041	predicted protein
+7661at3041	Fragmented	KN805369.1	1134007	1134282	+	150.7	88	https://www.orthodb.org/v10?query=7661at3041	Ribosomal protein L22/L17
+7663at3041	Missing
+7672at3041	Fragmented	KN805369.1	6075383	6075553	+	81.0	52	https://www.orthodb.org/v10?query=7672at3041	Molecular chaperone
+7678at3041	Fragmented	KN805353.1	791017	790475	-	101.9	89	https://www.orthodb.org/v10?query=7678at3041	enoyl-CoA hydratase
+7686at3041	Complete	KN805368.1	6969542	6968796	-	243.8	136	https://www.orthodb.org/v10?query=7686at3041	Thioredoxin-like ATP binding protein 2
+7691at3041	Missing
+7698at3041	Fragmented	KN805359.1	1422188	1421937	-	122.3	78	https://www.orthodb.org/v10?query=7698at3041	SEP domain
+7700at3041	Missing
+7716at3041	Complete	KN805270.1	31664	32073	+	119.3	91	https://www.orthodb.org/v10?query=7716at3041	component of TRAPP complex
+7738at3041	Complete	KN805262.1	20381	17857	-	283.7	242	https://www.orthodb.org/v10?query=7738at3041	Replication termination factor 2
+7742at3041	Complete	KN805368.1	3818999	3818223	-	157.0	107	https://www.orthodb.org/v10?query=7742at3041	Ribosomal protein S5 domain 2-type fold
+7744at3041	Complete	KN805361.1	3439273	3439806	+	145.3	104	https://www.orthodb.org/v10?query=7744at3041	Exosome complex component CSL4
+7748at3041	Missing
+7763at3041	Duplicated	KN805361.1	1438377	1438808	+	186.2	109	https://www.orthodb.org/v10?query=7763at3041	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+7763at3041	Duplicated	KN805364.1	21529	22240	+	212.1	133	https://www.orthodb.org/v10?query=7763at3041	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+7769at3041	Missing
+7776at3041	Missing
+7781at3041	Complete	KN805367.1	5422379	5421936	-	107.5	91	https://www.orthodb.org/v10?query=7781at3041	Histone chaperone asf1
+7785at3041	Missing
+7789at3041	Complete	KN805369.1	7532589	7533484	+	146.7	143	https://www.orthodb.org/v10?query=7789at3041	Putative tRNA/rRNA methyltransferase YsgA
+7794at3041	Missing
+7802at3041	Complete	KN805312.1	235536	236888	+	237.5	300	https://www.orthodb.org/v10?query=7802at3041	predicted protein
+7804at3041	Missing
+7823at3041	Missing
+7826at3041	Fragmented	KN805369.1	7722551	7721166	-	180.4	143	https://www.orthodb.org/v10?query=7826at3041	predicted protein
+7844at3041	Complete	KN805361.1	3042561	3040996	-	138.0	135	https://www.orthodb.org/v10?query=7844at3041	predicted protein
+7848at3041	Missing
+7853at3041	Complete	KN805312.1	864447	863370	-	249.9	172	https://www.orthodb.org/v10?query=7853at3041	Photosystem I reaction center subunit III
+7856at3041	Missing
+7859at3041	Fragmented	KN805369.1	6686591	6686379	-	70.0	57	https://www.orthodb.org/v10?query=7859at3041	predicted protein
+7868at3041	Missing
+7879at3041	Missing
+7900at3041	Missing
+7902at3041	Missing
+7903at3041	Missing
+7914at3041	Complete	KN805367.1	5795217	5796219	+	155.0	140	https://www.orthodb.org/v10?query=7914at3041	DHBP synthase RibB-like alpha/beta domain
+7922at3041	Complete	KN805270.1	118549	117988	-	164.6	128	https://www.orthodb.org/v10?query=7922at3041	component of TRAPP complex
+7955at3041	Fragmented	KN805369.1	1365752	1365501	-	151.7	81	https://www.orthodb.org/v10?query=7955at3041	Nuclear movement family protein
+7956at3041	Complete	KN805352.1	8123	8965	+	160.1	151	https://www.orthodb.org/v10?query=7956at3041	Protein YIPF
+7963at3041	Missing
+7965at3041	Missing
+7977at3041	Missing
+7993at3041	Missing
+7998at3041	Missing
+7999at3041	Missing
+8000at3041	Fragmented	KN805362.1	274682	274285	-	121.8	64	https://www.orthodb.org/v10?query=8000at3041	component of splicing factor SF3B
+8001at3041	Fragmented	KN805367.1	4169244	4168229	-	58.5	97	https://www.orthodb.org/v10?query=8001at3041	Acyl-CoA N-acyltransferase
+8004at3041	Missing
+8010at3041	Missing
+8021at3041	Complete	KN805358.1	2337763	2339147	+	218.8	220	https://www.orthodb.org/v10?query=8021at3041	DNA/pantothenate metabolism flavoprotein,C-terminal
+8047at3041	Missing
+8052at3041	Fragmented	KN805368.1	5609526	5609176	-	135.5	87	https://www.orthodb.org/v10?query=8052at3041	CRAL-TRIO lipid binding domain
+8061at3041	Fragmented	KN805368.1	7023661	7023951	+	76.8	67	https://www.orthodb.org/v10?query=8061at3041	Ribosomal protein S19e
+8069at3041	Complete	KN805368.1	229416	230276	+	121.9	107	https://www.orthodb.org/v10?query=8069at3041	coenzyme Q-binding protein
+8073at3041	Complete	JUBA01000258.1	30068	28532	-	177.8	147	https://www.orthodb.org/v10?query=8073at3041	Predicted protein
+8074at3041	Missing
+8100at3041	Complete	KN805359.1	910635	911606	+	114.3	132	https://www.orthodb.org/v10?query=8100at3041	predicted protein
+8106at3041	Complete	JUBA01000305.1	12781	14012	+	276.5	160	https://www.orthodb.org/v10?query=8106at3041	Tetratricopeptide repeat
+8114at3041	Missing
+8117at3041	Duplicated	KN805368.1	119484	118654	-	189.7	142	https://www.orthodb.org/v10?query=8117at3041	Beta-1,4-N-acetylglucosaminyltransferase
+8117at3041	Duplicated	KN805368.1	6520038	6520868	+	189.7	142	https://www.orthodb.org/v10?query=8117at3041	Beta-1,4-N-acetylglucosaminyltransferase
+8130at3041	Missing
+8134at3041	Missing
+8145at3041	Complete	KN805368.1	2185429	2184813	-	95.4	70	https://www.orthodb.org/v10?query=8145at3041	DNA-directed RNA polymerase subunit
+8151at3041	Missing
+8157at3041	Complete	KN805361.1	49861	46410	-	313.3	225	https://www.orthodb.org/v10?query=8157at3041	Translation initiation factor
+8173at3041	Missing
+8190at3041	Missing
+8191at3041	Fragmented	KN805265.1	437150	436863	-	112.7	79	https://www.orthodb.org/v10?query=8191at3041	Peroxisome biogenesis protein 12
+8206at3041	Complete	KN805368.1	6763668	6763261	-	224.4	133	https://www.orthodb.org/v10?query=8206at3041	Subunit of the ESCRT-III complex
+8208at3041	Missing
+8218at3041	Missing
+8229at3041	Complete	JUBA01000235.1	5353	6915	+	152.9	132	https://www.orthodb.org/v10?query=8229at3041	PITH domain
+8231at3041	Missing
+8248at3041	Missing
+8259at3041	Missing
+8260at3041	Missing
+8274at3041	Complete	KN805361.1	3056326	3055691	-	157.2	109	https://www.orthodb.org/v10?query=8274at3041	Methyltransferase-like protein
+8275at3041	Missing
+8289at3041	Complete	KN805353.1	1338417	1339172	+	178.5	128	https://www.orthodb.org/v10?query=8289at3041	Ribosomal protein L9
+8296at3041	Complete	KN805290.1	1258161	1259582	+	213.5	138	https://www.orthodb.org/v10?query=8296at3041	Ubiquitin-conjugating enzyme E2 S
+8301at3041	Missing
+8309at3041	Fragmented	KN805357.1	682999	683432	+	134.1	96	https://www.orthodb.org/v10?query=8309at3041	Uncharacterized hydrolase
+8310at3041	Complete	KN805369.1	5623472	5622535	-	206.3	147	https://www.orthodb.org/v10?query=8310at3041	Ubiquitin-conjugating enzyme, active site
+8318at3041	Fragmented	KN805367.1	4444676	4444977	+	132.8	68	https://www.orthodb.org/v10?query=8318at3041	Iron-sulfur cluster assembly protein
+8327at3041	Complete	KN805262.1	67619	68540	+	170.0	119	https://www.orthodb.org/v10?query=8327at3041	mitochondrial ribosomal protein L11
+8331at3041	Complete	KN805368.1	3143143	3144370	+	143.9	141	https://www.orthodb.org/v10?query=8331at3041	Qc-SNARE protein, Syn8/Syntaxin8-family
+8348at3041	Missing
+8364at3041	Missing
+8372at3041	Missing
+8373at3041	Complete	KN805368.1	824544	825153	+	99.4	71	https://www.orthodb.org/v10?query=8373at3041	Ankyrin repeat-containing domain
+8377at3041	Complete	KN805361.1	3046733	3046037	-	126.6	97	https://www.orthodb.org/v10?query=8377at3041	predicted protein
+8379at3041	Missing
+8384at3041	Complete	KN805361.1	3589323	3588383	-	124.6	111	https://www.orthodb.org/v10?query=8384at3041	Ribosome recycling factor
+8395at3041	Complete	KN805362.1	1752419	1751804	-	146.4	103	https://www.orthodb.org/v10?query=8395at3041	Ribosomal protein L32e
+8406at3041	Missing
+8408at3041	Missing
+8415at3041	Missing
+8420at3041	Fragmented	KN805369.1	1460110	1460301	+	65.8	40	https://www.orthodb.org/v10?query=8420at3041	predicted protein
+8424at3041	Missing
+8438at3041	Complete	JUBA01000240.1	25743	24554	-	214.0	145	https://www.orthodb.org/v10?query=8438at3041	predicted protein
+8448at3041	Missing
+8449at3041	Fragmented	KN805368.1	6183864	6184211	+	181.7	109	https://www.orthodb.org/v10?query=8449at3041	mitochondrial inner membrane translocase
+8451at3041	Complete	JUBA01000561.1	1436	2355	+	224.3	117	https://www.orthodb.org/v10?query=8451at3041	Histone H2A
+8453at3041	Complete	KN805368.1	2515104	2514512	-	185.4	105	https://www.orthodb.org/v10?query=8453at3041	40S ribosomal protein S12
+8455at3041	Missing
+8465at3041	Fragmented	KN805272.1	332231	332061	-	61.2	45	https://www.orthodb.org/v10?query=8465at3041	DNA-directed RNA polymerase II, 16.5 kDa polypeptide
+8492at3041	Missing
+8494at3041	Complete	KN805267.1	232264	232899	+	194.6	153	https://www.orthodb.org/v10?query=8494at3041	6-phosphogluconolactonase
+8500at3041	Complete	KN805369.1	6910210	6910798	+	141.9	100	https://www.orthodb.org/v10?query=8500at3041	Nucleotide-binding, alpha-beta plait
+8502at3041	Complete	KN805361.1	2744384	2744896	+	185.2	130	https://www.orthodb.org/v10?query=8502at3041	predicted protein
+8526at3041	Complete	KN805369.1	948157	947403	-	159.1	146	https://www.orthodb.org/v10?query=8526at3041	Phosphoribosylanthranilate isomerase
+8539at3041	Fragmented	KN805369.1	3415854	3416114	+	123.7	70	https://www.orthodb.org/v10?query=8539at3041	U6 snRNA-associated Sm-like protein LSm1
+8542at3041	Fragmented	KN805368.1	5485300	5484854	-	127.0	72	https://www.orthodb.org/v10?query=8542at3041	predicted protein
+8558at3041	Missing
+8574at3041	Missing
+8592at3041	Missing
+8595at3041	Missing
+8618at3041	Complete	KN805361.1	3366709	3367231	+	182.9	124	https://www.orthodb.org/v10?query=8618at3041	glyoxylase family protein
+8619at3041	Missing
+8620at3041	Duplicated	JUBA01000251.1	6825	8054	+	173.4	169	https://www.orthodb.org/v10?query=8620at3041	Lumen thiol oxidase 1
+8620at3041	Duplicated	KN805369.1	8236699	8235458	-	175.9	170	https://www.orthodb.org/v10?query=8620at3041	Lumen thiol oxidase 1
+8623at3041	Missing
+8629at3041	Missing
+8632at3041	Fragmented	KN805361.1	3349152	3348350	-	84.1	82	https://www.orthodb.org/v10?query=8632at3041	periplasmic binding protein-like II
+8641at3041	Complete	KN805369.1	6341977	6342977	+	146.1	139	https://www.orthodb.org/v10?query=8641at3041	mitochondrial import inner membrane translocase
+8644at3041	Missing
+8645at3041	Missing
+8662at3041	Missing
+8675at3041	Missing
+8690at3041	Fragmented	KN805368.1	1287247	1286921	-	97.0	61	https://www.orthodb.org/v10?query=8690at3041	DNA-directed RNA polymerase subunit
+8714at3041	Complete	KN805356.1	96323	95678	-	162.3	102	https://www.orthodb.org/v10?query=8714at3041	iron-sulfur cluster assembly protein
+8718at3041	Complete	KN805366.1	98084	96550	-	232.4	136	https://www.orthodb.org/v10?query=8718at3041	AP complex subunit sigma
+8720at3041	Missing
+8727at3041	Fragmented	KN805362.1	1752838	1753151	+	75.3	53	https://www.orthodb.org/v10?query=8727at3041	Translational inhibitor protein
+8754at3041	Missing
+8778at3041	Missing
+8781at3041	Missing
+8787at3041	Complete	KN805367.1	1486155	1486550	+	96.6	91	https://www.orthodb.org/v10?query=8787at3041	Nuclear transport factor 2
+8793at3041	Missing
+8810at3041	Complete	KN805369.1	1144927	1145289	+	149.5	88	https://www.orthodb.org/v10?query=8810at3041	Zinc finger, RanBP2-type
+8811at3041	Complete	KN805368.1	65475	64800	-	201.6	105	https://www.orthodb.org/v10?query=8811at3041	Ribosomal protein S17e
+8826at3041	Missing
+8836at3041	Complete	KN805361.1	3085179	3085997	+	94.3	117	https://www.orthodb.org/v10?query=8836at3041	predicted protein
+8843at3041	Missing
+8844at3041	Fragmented	KN805341.1	249554	250126	+	95.5	120	https://www.orthodb.org/v10?query=8844at3041	Ribonuclease Nob1, eukaryote
+8849at3041	Missing
+8859at3041	Missing
+8862at3041	Fragmented	KN805279.1	487777	487403	-	159.5	87	https://www.orthodb.org/v10?query=8862at3041	Syntaxin-32
+8863at3041	Complete	KN805369.1	1859612	1860138	+	157.0	106	https://www.orthodb.org/v10?query=8863at3041	Peptidyl-tRNA hydrolase II
+8868at3041	Complete	JUBA01000709.1	97	639	+	151.7	79	https://www.orthodb.org/v10?query=8868at3041	Small nuclear ribonucleoprotein sm D2
+8869at3041	Missing
+8871at3041	Missing
+8895at3041	Complete	KN805369.1	7597101	7596105	-	181.5	167	https://www.orthodb.org/v10?query=8895at3041	Maf-like protein
+8898at3041	Missing
+8904at3041	Complete	KN805265.1	317810	318451	+	173.0	127	https://www.orthodb.org/v10?query=8904at3041	Nucleotide-binding, alpha-beta plait
+8920at3041	Missing
+8925at3041	Complete	KN805367.1	3007793	3008502	+	122.3	112	https://www.orthodb.org/v10?query=8925at3041	Multiprotein bridging factor
+8926at3041	Missing
+8937at3041	Complete	KN805362.1	464870	464404	-	93.3	94	https://www.orthodb.org/v10?query=8937at3041	predicted protein
+8939at3041	Missing
+8947at3041	Missing
+8977at3041	Missing
+8987at3041	Complete	KN805366.1	1250722	1251503	+	90.3	72	https://www.orthodb.org/v10?query=8987at3041	Molybdopterin cofactor biosynthesis C (MoaC) domain
+8989at3041	Missing
+8991at3041	Missing
+8997at3041	Complete	KN805367.1	6825525	6824950	-	140.4	97	https://www.orthodb.org/v10?query=8997at3041	Protein-S-isoprenylcysteine O-methyltransferase
+9005at3041	Complete	KN805312.1	602589	603309	+	140.7	138	https://www.orthodb.org/v10?query=9005at3041	Zinc finger, RING-type
+9021at3041	Missing
+9034at3041	Fragmented	KN805369.1	1642545	1643004	+	159.8	83	https://www.orthodb.org/v10?query=9034at3041	Ribonucleoprotein-associated protein
+9042at3041	Complete	KN805358.1	994316	995406	+	127.3	108	https://www.orthodb.org/v10?query=9042at3041	pre-mRNA splicing factor 18
+9051at3041	Fragmented	KN805361.1	626839	626534	-	32.4	59	https://www.orthodb.org/v10?query=9051at3041	Tetratricopeptide repeat
+9073at3041	Missing
+9077at3041	Complete	KN805368.1	4918673	4919051	+	179.5	84	https://www.orthodb.org/v10?query=9077at3041	Histone-like transcription factor
+9088at3041	Complete	KN805367.1	2410305	2410722	+	117.0	66	https://www.orthodb.org/v10?query=9088at3041	60S ribosomal protein L44
+9101at3041	Missing
+9109at3041	Missing
+9123at3041	Duplicated	JUBA01000644.1	3339	3789	+	137.6	82	https://www.orthodb.org/v10?query=9123at3041	predicted protein
+9123at3041	Duplicated	KN805368.1	3461063	3461501	+	129.0	79	https://www.orthodb.org/v10?query=9123at3041	predicted protein
+9134at3041	Missing
+9135at3041	Missing
+9152at3041	Complete	KN805369.1	3494381	3493911	-	118.4	85	https://www.orthodb.org/v10?query=9152at3041	NADH:ubiquinone oxidoreductase 12.5 kDa subunit
+9158at3041	Missing
+9168at3041	Missing
+9169at3041	Complete	KN805359.1	35747	31383	-	252.3	249	https://www.orthodb.org/v10?query=9169at3041	NatC N(Alpha)-terminal acetyltransferase, Mak10 subunit
+9170at3041	Complete	KN805368.1	4657825	4657331	-	81.1	89	https://www.orthodb.org/v10?query=9170at3041	DNA replication complex GINS protein SLD5
+9180at3041	Missing
+9184at3041	Missing
+9185at3041	Missing
+9197at3041	Complete	KN805358.1	2329105	2329632	+	130.5	104	https://www.orthodb.org/v10?query=9197at3041	mitochondrial inner membrane signal peptidase
+9210at3041	Fragmented	KN805358.1	1513718	1514130	+	62.0	73	https://www.orthodb.org/v10?query=9210at3041	predicted protein
+9211at3041	Fragmented	JUBA01000629.1	970	701	-	67.8	60	https://www.orthodb.org/v10?query=9211at3041	predicted protein
+9229at3041	Missing
+9237at3041	Fragmented	KN805368.1	6555990	6555736	-	55.9	65	https://www.orthodb.org/v10?query=9237at3041	Gamma-glutamylcyclotransferase
+9261at3041	Missing
+9277at3041	Missing
+9279at3041	Missing
+9281at3041	Fragmented	KN805361.1	824715	825231	+	181.1	123	https://www.orthodb.org/v10?query=9281at3041	DNA-directed RNA polymerase II, 19 kDa polypeptide
+9283at3041	Fragmented	KN805368.1	5755799	5680075	-	86.3	74	https://www.orthodb.org/v10?query=9283at3041	HIT-like domain
+9298at3041	Missing
+9319at3041	Fragmented	KN805279.1	564293	563756	-	83.7	77	https://www.orthodb.org/v10?query=9319at3041	predicted protein
+9331at3041	Complete	JUBA01000144.1	649	1405	+	243.0	164	https://www.orthodb.org/v10?query=9331at3041	predicted protein
+9347at3041	Missing
+9376at3041	Missing
+9379at3041	Missing
+9401at3041	Missing
+9403at3041	Missing
+9415at3041	Complete	KN805341.1	588631	590191	+	205.3	161	https://www.orthodb.org/v10?query=9415at3041	predicted protein
+9417at3041	Fragmented	KN805368.1	2558289	2557328	-	146.1	118	https://www.orthodb.org/v10?query=9417at3041	Putative CCB4
+9421at3041	Missing
+9423at3041	Fragmented	KN805362.1	1576699	1576896	+	40.4	45	https://www.orthodb.org/v10?query=9423at3041	cornichon-like protein
+9426at3041	Fragmented	KN805290.1	62139	61637	-	92.1	84	https://www.orthodb.org/v10?query=9426at3041	predicted protein
+9452at3041	Complete	KN805368.1	2020732	2021171	+	93.6	81	https://www.orthodb.org/v10?query=9452at3041	NADH
+9467at3041	Missing
+9470at3041	Missing
+9476at3041	Fragmented	KN805368.1	3640832	3641137	+	129.7	84	https://www.orthodb.org/v10?query=9476at3041	Ankyrin repeat-containing domain
+9478at3041	Fragmented	KN805283.1	49814	50044	+	77.1	64	https://www.orthodb.org/v10?query=9478at3041	Predicted protein
+9487at3041	Missing
+9493at3041	Missing
+9508at3041	Complete	KN805361.1	597345	596170	-	118.4	88	https://www.orthodb.org/v10?query=9508at3041	60S ribosomal protein L27
+9516at3041	Fragmented	KN805368.1	1810465	1810148	-	104.4	68	https://www.orthodb.org/v10?query=9516at3041	Vacuolar membrane PQ loop repeat protein
+9580at3041	Missing
+9586at3041	Complete	KN805364.1	17595	18276	+	126.8	125	https://www.orthodb.org/v10?query=9586at3041	predicted protein
+9588at3041	Fragmented	KN805369.1	4058520	4058338	-	86.2	49	https://www.orthodb.org/v10?query=9588at3041	Mitochondrial pyruvate carrier
+9600at3041	Fragmented	KN805368.1	6761523	6761792	+	61.8	57	https://www.orthodb.org/v10?query=9600at3041	Signal peptidase complex subunit 3
+9604at3041	Missing
+9613at3041	Fragmented	KN805290.1	299341	299637	+	90.7	46	https://www.orthodb.org/v10?query=9613at3041	Glutaredoxin
+9622at3041	Missing
+9624at3041	Missing
+9631at3041	Fragmented	KN805362.1	1694517	1694821	+	98.2	56	https://www.orthodb.org/v10?query=9631at3041	2Fe-2S ferredoxin
+9632at3041	Fragmented	KN805357.1	493998	494612	+	167.1	85	https://www.orthodb.org/v10?query=9632at3041	Translation initiation factor 1A (eIF-1A)
+9637at3041	Fragmented	KN805369.1	1225165	1225576	+	123.9	80	https://www.orthodb.org/v10?query=9637at3041	ribosomal protein L26
+9651at3041	Missing
+9668at3041	Fragmented	KN805368.1	7773084	7772784	-	126.8	69	https://www.orthodb.org/v10?query=9668at3041	Mitochondrial inner membrane translocase
+9687at3041	Missing
+9693at3041	Missing
+9749at3041	Missing
+9753at3041	Complete	KN805314.1	8457	7196	-	180.0	149	https://www.orthodb.org/v10?query=9753at3041	Ataxin-3
+9759at3041	Missing
+9788at3041	Complete	KN805271.1	11270	10423	-	143.2	95	https://www.orthodb.org/v10?query=9788at3041	Ribosomal protein L18
+9812at3041	Missing
+9846at3041	Fragmented	KN805369.1	4367685	4367849	+	35.3	44	https://www.orthodb.org/v10?query=9846at3041	potential peptidoglycan binding protein
+9860at3041	Complete	JUBA01000047.1	50292	53072	+	191.1	214	https://www.orthodb.org/v10?query=9860at3041	WD40/YVTN repeat-like-containing domain
+9901at3041	Missing
+9903at3041	Missing
+9927at3041	Fragmented	KN805367.1	5390935	5391474	+	59.0	56	https://www.orthodb.org/v10?query=9927at3041	PWI domain
+9943at3041	Missing
+9946at3041	Missing
+9958at3041	Missing
+9982at3041	Complete	KN805353.1	1503735	1504262	+	116.4	109	https://www.orthodb.org/v10?query=9982at3041	predicted protein
+9985at3041	Fragmented	KN805366.1	1772319	1772796	+	87.9	58	https://www.orthodb.org/v10?query=9985at3041	predicted protein
+9991at3041	Missing
+9999at3041	Complete	KN805353.1	987801	987171	-	179.9	101	https://www.orthodb.org/v10?query=9999at3041	Nucleotide-binding, alpha-beta plait
+10012at3041	Fragmented	KN805362.1	1242665	1243194	+	54.6	50	https://www.orthodb.org/v10?query=10012at3041	YCII-related protein
+10033at3041	Missing
+10034at3041	Missing
+10037at3041	Fragmented	KN805362.1	621411	621004	-	15.0	35	https://www.orthodb.org/v10?query=10037at3041	transcription initiation factor IID, 31kD subunit
+10039at3041	Duplicated	JUBA01000538.1	14250	13861	-	165.6	100	https://www.orthodb.org/v10?query=10039at3041	Photosystem II reaction center Psb28 protein
+10039at3041	Duplicated	KN805272.1	518201	517812	-	165.6	100	https://www.orthodb.org/v10?query=10039at3041	Photosystem II reaction center Psb28 protein
+10044at3041	Duplicated	KN805312.1	1117142	1117660	+	155.3	98	https://www.orthodb.org/v10?query=10044at3041	Plastocyanin
+10044at3041	Duplicated	KN805367.1	2125610	2125185	-	156.4	98	https://www.orthodb.org/v10?query=10044at3041	Plastocyanin
+10056at3041	Missing
+10061at3041	Duplicated	JUBA01000356.1	4032	4491	+	78.4	68	https://www.orthodb.org/v10?query=10061at3041	predicted protein
+10061at3041	Duplicated	KN805368.1	6584097	6583638	-	78.4	68	https://www.orthodb.org/v10?query=10061at3041	predicted protein
+10065at3041	Missing
+10067at3041	Missing
+10076at3041	Fragmented	KN805368.1	7485719	7485507	-	121.4	69	https://www.orthodb.org/v10?query=10076at3041	Vesicle transport v-SNARE, N-terminal
+10100at3041	Complete	KN805312.1	1008757	1006670	-	246.2	183	https://www.orthodb.org/v10?query=10100at3041	Zinc finger, RING-type
+10111at3041	Missing
+10118at3041	Complete	KN805361.1	3320540	3320866	+	106.6	72	https://www.orthodb.org/v10?query=10118at3041	Chaperonin
+10122at3041	Complete	JUBA01000281.1	18101	16475	-	105.6	177	https://www.orthodb.org/v10?query=10122at3041	Glutaminyl-peptide cyclotransferase
+10128at3041	Missing
+10141at3041	Missing
+10156at3041	Complete	KN805369.1	3767091	3767761	+	133.6	89	https://www.orthodb.org/v10?query=10156at3041	Ribosomal protein L35a
+10157at3041	Duplicated	KN805310.1	7543	6297	-	135.1	142	https://www.orthodb.org/v10?query=10157at3041	Protein BCCIP homolog
+10157at3041	Duplicated	KN805368.1	7473632	7474878	+	135.1	142	https://www.orthodb.org/v10?query=10157at3041	Protein BCCIP homolog
+10167at3041	Missing
+10175at3041	Complete	JUBA01000538.1	10553	12093	+	256.6	224	https://www.orthodb.org/v10?query=10175at3041	Rab-GTPase-TBC domain
+10181at3041	Complete	KN805366.1	1004625	1005259	+	206.3	120	https://www.orthodb.org/v10?query=10181at3041	H/ACA ribonucleoprotein complex subunit 2
+10182at3041	Missing
+10184at3041	Missing
+10197at3041	Complete	KN805367.1	2554969	2555493	+	136.3	87	https://www.orthodb.org/v10?query=10197at3041	60S ribosomal protein L36
+10198at3041	Complete	KN805265.1	98860	97891	-	140.4	90	https://www.orthodb.org/v10?query=10198at3041	Nucleotide-binding, alpha-beta plait
+10201at3041	Missing
+10205at3041	Missing
+10253at3041	Complete	KN805359.1	2140098	2139240	-	148.1	134	https://www.orthodb.org/v10?query=10253at3041	Thioredoxin-like protein
+10273at3041	Fragmented	KN805368.1	7867828	7867622	-	84.4	60	https://www.orthodb.org/v10?query=10273at3041	predicted protein
+10293at3041	Complete	JUBA01000589.1	1149	745	-	78.6	74	https://www.orthodb.org/v10?query=10293at3041	Cytochrome b-c1 complex subunit 7
+10301at3041	Missing
+10319at3041	Missing
+10334at3041	Fragmented	JUBA01000314.1	1501	1731	+	69.3	56	https://www.orthodb.org/v10?query=10334at3041	n-acetyltransferase
+10373at3041	Duplicated	KN805357.1	831133	830730	-	114.0	71	https://www.orthodb.org/v10?query=10373at3041	Ribosomal protein L37
+10373at3041	Duplicated	KN805366.1	1810976	1811379	+	114.0	71	https://www.orthodb.org/v10?query=10373at3041	Ribosomal protein L37
+10388at3041	Duplicated	KN805305.1	1129090	1128686	-	170.4	81	https://www.orthodb.org/v10?query=10388at3041	U6 snRNA-associated Sm-like protein LSm4
+10388at3041	Duplicated	KN805361.1	3855273	3854869	-	170.4	81	https://www.orthodb.org/v10?query=10388at3041	U6 snRNA-associated Sm-like protein LSm4
+10409at3041	Missing
+10412at3041	Missing
+10418at3041	Missing
+10459at3041	Fragmented	KN805369.1	5737697	5737882	+	110.1	59	https://www.orthodb.org/v10?query=10459at3041	Impact, N-terminal
+10482at3041	Duplicated	KN805358.1	2524200	2523734	-	122.9	90	https://www.orthodb.org/v10?query=10482at3041	predicted protein
+10482at3041	Duplicated	KN805360.1	153834	153368	-	122.9	90	https://www.orthodb.org/v10?query=10482at3041	predicted protein
+10491at3041	Missing
+10500at3041	Fragmented	KN805290.1	99804	100508	+	102.3	118	https://www.orthodb.org/v10?query=10500at3041	predicted protein
+10517at3041	Missing
+10539at3041	Missing
+10545at3041	Complete	JUBA01000083.1	9532	8363	-	117.9	103	https://www.orthodb.org/v10?query=10545at3041	Ribosomal protein L13
+10566at3041	Complete	KN805305.1	647430	647029	-	99.7	55	https://www.orthodb.org/v10?query=10566at3041	Small nuclear ribonucleoprotein E
+10618at3041	Fragmented	KN805369.1	2226599	2226369	-	99.3	76	https://www.orthodb.org/v10?query=10618at3041	Zinc finger, CCHC-type
+10642at3041	Missing
+10650at3041	Missing
+10667at3041	Complete	KN805363.1	126920	124593	-	224.2	247	https://www.orthodb.org/v10?query=10667at3041	Apoptosis-antagonizing transcription factor,C-terminal
+10668at3041	Complete	KN805359.1	1229262	1228567	-	167.0	105	https://www.orthodb.org/v10?query=10668at3041	Ribosomal protein L17
+10679at3041	Missing
+10684at3041	Complete	KN805267.1	36568	37729	+	226.4	123	https://www.orthodb.org/v10?query=10684at3041	Ribosomal protein S13
+10699at3041	Complete	KN805367.1	2018227	2018033	-	95.7	63	https://www.orthodb.org/v10?query=10699at3041	fanciful K+ uptake-b family transporter
+10724at3041	Complete	KN805358.1	2061451	2061741	+	109.3	78	https://www.orthodb.org/v10?query=10724at3041	predicted protein
+10730at3041	Complete	KN805359.1	2150150	2149950	-	75.8	55	https://www.orthodb.org/v10?query=10730at3041	Peptidyl-prolyl cis-trans isomerase
+10744at3041	Complete	KN805265.1	427119	427451	+	112.2	88	https://www.orthodb.org/v10?query=10744at3041	predicted protein
+10768at3041	Complete	KN805305.1	1259816	1259550	-	142.7	77	https://www.orthodb.org/v10?query=10768at3041	Splicing factor subunit
+10788at3041	Missing
+10790at3041	Complete	KN805361.1	1730238	1729895	-	110.5	74	https://www.orthodb.org/v10?query=10790at3041	predicted protein
+10808at3041	Complete	KN805367.1	758142	757555	-	167.3	88	https://www.orthodb.org/v10?query=10808at3041	small nuclear ribonucleoprotein
+10837at3041	Missing
+10857at3041	Duplicated	JUBA01000895.1	449	154	-	147.5	67	https://www.orthodb.org/v10?query=10857at3041	predicted protein
+10857at3041	Duplicated	KN805367.1	7097755	7097460	-	147.5	67	https://www.orthodb.org/v10?query=10857at3041	predicted protein
+10873at3041	Complete	JUBA01000767.1	1107	772	-	130.4	93	https://www.orthodb.org/v10?query=10873at3041	Methyltransferase-associated protein
+10929at3041	Missing
+10934at3041	Complete	KN805361.1	429358	430066	+	155.1	101	https://www.orthodb.org/v10?query=10934at3041	Ribosomal protein L29/L35
+10946at3041	Missing
+10948at3041	Missing
+10951at3041	Missing
+10960at3041	Missing
+10965at3041	Complete	KN805358.1	2246177	2245823	-	78.9	61	https://www.orthodb.org/v10?query=10965at3041	predicted protein
+11022at3041	Missing
+11023at3041	Complete	KN805367.1	5410943	5411383	+	98.9	94	https://www.orthodb.org/v10?query=11023at3041	predicted protein
+11038at3041	Missing
+11048at3041	Complete	KN805368.1	2058266	2057851	-	183.6	104	https://www.orthodb.org/v10?query=11048at3041	50S ribosomal protein L20
+11052at3041	Complete	JUBA01000095.1	1159	1830	+	117.3	102	https://www.orthodb.org/v10?query=11052at3041	predicted protein
+11053at3041	Fragmented	KN805369.1	3282492	3282644	+	46.8	33	https://www.orthodb.org/v10?query=11053at3041	DRAP1-like protein
+11068at3041	Missing
+11071at3041	Complete	KN805369.1	4179010	4179564	+	142.0	89	https://www.orthodb.org/v10?query=11071at3041	DNA-directed RNA polymerase II, 13.6 kDa polypeptide
+11073at3041	Missing
+11078at3041	Fragmented	KN805366.1	416689	416877	+	49.9	45	https://www.orthodb.org/v10?query=11078at3041	Profilin
+11103at3041	Missing
+11113at3041	Missing
+11141at3041	Missing
+11171at3041	Fragmented	KN805308.1	1073	517	-	121.0	85	https://www.orthodb.org/v10?query=11171at3041	Golgi apparatus membrane protein TVP23
+11191at3041	Duplicated	KN805279.1	412804	413034	+	104.9	65	https://www.orthodb.org/v10?query=11191at3041	predicted protein
+11191at3041	Duplicated	KN805358.1	1101898	1101668	-	104.9	65	https://www.orthodb.org/v10?query=11191at3041	predicted protein
+11221at3041	Complete	KN805368.1	4065468	4065198	-	113.1	60	https://www.orthodb.org/v10?query=11221at3041	40S ribosomal protein S21
+11227at3041	Complete	KN805367.1	3354343	3353752	-	142.4	80	https://www.orthodb.org/v10?query=11227at3041	predicted protein
+11258at3041	Fragmented	KN805290.1	472681	473102	+	99.7	64	https://www.orthodb.org/v10?query=11258at3041	Zinc finger HIT domain-containing protein 1
+11259at3041	Duplicated	KN805282.1	71420	71017	-	86.7	77	https://www.orthodb.org/v10?query=11259at3041	peptidyl-trna hydrolase
+11259at3041	Duplicated	KN805358.1	346547	346144	-	86.7	77	https://www.orthodb.org/v10?query=11259at3041	peptidyl-trna hydrolase
+11259at3041	Duplicated	KN805359.1	1292215	1291812	-	86.7	77	https://www.orthodb.org/v10?query=11259at3041	peptidyl-trna hydrolase
+11259at3041	Duplicated	KN805366.1	2157593	2157996	+	86.7	77	https://www.orthodb.org/v10?query=11259at3041	peptidyl-trna hydrolase
+11296at3041	Fragmented	KN805369.1	2200608	2200048	-	140.0	118	https://www.orthodb.org/v10?query=11296at3041	Membrin
+11308at3041	Missing
+11317at3041	Complete	KN805368.1	3117113	3119158	+	164.5	137	https://www.orthodb.org/v10?query=11317at3041	predicted protein
+11322at3041	Fragmented	KN805361.1	969409	969648	+	89.7	71	https://www.orthodb.org/v10?query=11322at3041	Molecular chaperone prefoldin, subunit 2
+11326at3041	Complete	KN805368.1	5281115	5281410	+	79.5	46	https://www.orthodb.org/v10?query=11326at3041	NADH
+11337at3041	Complete	KN805367.1	1899475	1900089	+	94.3	95	https://www.orthodb.org/v10?query=11337at3041	predicted protein
+11371at3041	Missing
+11378at3041	Missing
+11392at3041	Fragmented	KN805305.1	69456	69750	+	139.1	69	https://www.orthodb.org/v10?query=11392at3041	Nascent polypeptide-associated complex subunit beta
+11417at3041	Complete	KN805369.1	8255452	8255694	+	121.0	76	https://www.orthodb.org/v10?query=11417at3041	putative toxin-antitoxin system, toxin component
+11445at3041	Complete	KN805359.1	319793	320041	+	72.5	62	https://www.orthodb.org/v10?query=11445at3041	Molybdopterin synthase sulfur carrier subunit
+11457at3041	Complete	JUBA01000048.1	74629	74085	-	88.1	83	https://www.orthodb.org/v10?query=11457at3041	7,8-dihydroneopterin aldolase
+11481at3041	Complete	KN805361.1	724764	724141	-	144.8	153	https://www.orthodb.org/v10?query=11481at3041	predicted protein
+11482at3041	Missing
+11502at3041	Missing
+11515at3041	Fragmented	JUBA01000230.1	3769	4131	+	77.8	46	https://www.orthodb.org/v10?query=11515at3041	predicted protein
+11518at3041	Complete	KN805266.1	74987	75950	+	110.9	87	https://www.orthodb.org/v10?query=11518at3041	Putative 2-aminoethanethiol dioxygenase
+11545at3041	Complete	KN805357.1	955229	954966	-	115.5	80	https://www.orthodb.org/v10?query=11545at3041	RNA polymerase II-binding domain
+11622at3041	Complete	KN805369.1	3009876	3009546	-	89.5	69	https://www.orthodb.org/v10?query=11622at3041	Nucleotide-binding, alpha-beta plait
+11632at3041	Duplicated	KN805275.1	62571	62284	-	69.7	59	https://www.orthodb.org/v10?query=11632at3041	Ribosomal protein L27
+11632at3041	Duplicated	KN805368.1	604302	604589	+	69.7	59	https://www.orthodb.org/v10?query=11632at3041	Ribosomal protein L27
+11659at3041	Missing
+11669at3041	Complete	KN805367.1	6245167	6250533	+	101.6	68	https://www.orthodb.org/v10?query=11669at3041	LSM domain, eukaryotic/archaea-type
+11693at3041	Missing
+11703at3041	Complete	KN805357.1	269574	269458	-	80.8	38	https://www.orthodb.org/v10?query=11703at3041	predicted protein
+11724at3041	Missing
+11739at3041	Missing
+11750at3041	Complete	KN805367.1	804101	804690	+	89.7	82	https://www.orthodb.org/v10?query=11750at3041	Signal recognition particle protein
+11770at3041	Missing
+11776at3041	Complete	KN805367.1	3377094	3376567	-	113.5	92	https://www.orthodb.org/v10?query=11776at3041	LSM domain, eukaryotic/archaea-type
+11780at3041	Missing
+11795at3041	Fragmented	KN805280.1	28357	28855	+	94.2	45	https://www.orthodb.org/v10?query=11795at3041	Mitochondrial inner membrane translocase
+11803at3041	Fragmented	KN805367.1	4730125	4730366	+	79.4	44	https://www.orthodb.org/v10?query=11803at3041	predicted protein
+11829at3041	Duplicated	JUBA01000218.1	5072	4806	-	68.7	75	https://www.orthodb.org/v10?query=11829at3041	predicted protein
+11829at3041	Duplicated	KN805366.1	932008	932274	+	68.7	75	https://www.orthodb.org/v10?query=11829at3041	predicted protein
+11836at3041	Missing
+11837at3041	Missing
+11842at3041	Complete	KN805359.1	2421622	2421356	-	99.0	50	https://www.orthodb.org/v10?query=11842at3041	H/ACA ribonucleoprotein complex subunit 3
+11866at3041	Missing
+11870at3041	Missing
+11894at3041	Duplicated	KN805305.1	1127790	1127435	-	96.5	60	https://www.orthodb.org/v10?query=11894at3041	predicted protein
+11894at3041	Duplicated	KN805369.1	6117590	6117945	+	96.5	60	https://www.orthodb.org/v10?query=11894at3041	predicted protein
+11933at3041	Complete	KN805367.1	2493736	2493933	+	80.5	59	https://www.orthodb.org/v10?query=11933at3041	predicted protein
+11939at3041	Missing
+11957at3041	Complete	JUBA01000099.1	9469	8360	-	64.5	98	https://www.orthodb.org/v10?query=11957at3041	predicted protein
+12103at3041	Complete	KN805305.1	444828	445386	+	89.8	96	https://www.orthodb.org/v10?query=12103at3041	Transcription initiation factor IIA subunit 2
+12131at3041	Complete	KN805359.1	2573743	2574138	+	96.9	61	https://www.orthodb.org/v10?query=12131at3041	60S acidic ribosomal protein P1
+12183at3041	Complete	KN805362.1	1659135	1659368	+	83.4	69	https://www.orthodb.org/v10?query=12183at3041	predicted protein
+12232at3041	Complete	KN805367.1	7588646	7589045	+	73.1	81	https://www.orthodb.org/v10?query=12232at3041	predicted protein
+12295at3041	Complete	JUBA01000176.1	23507	21995	-	191.9	196	https://www.orthodb.org/v10?query=12295at3041	predicted protein
+12313at3041	Fragmented	KN805358.1	89373	89062	-	47.0	37	https://www.orthodb.org/v10?query=12313at3041	predicted protein
+12380at3041	Missing
+12450at3041	Missing
+12455at3041	Missing
+12513at3041	Missing
+12521at3041	Missing
+12535at3041	Complete	KN805369.1	4490146	4490478	+	81.8	54	https://www.orthodb.org/v10?query=12535at3041	Mitochondrial import inner membrane translocase subunit TIM10
+12555at3041	Missing
+12560at3041	Missing
+12580at3041	Complete	JUBA01000280.1	18119	21998	+	160.2	152	https://www.orthodb.org/v10?query=12580at3041	tRNA (Guanine-N(7)-)-methyltransferase non-catalytic subunit wdr4
+12584at3041	Missing
+12685at3041	Missing
+12851at3041	Complete	KN805290.1	719554	719279	-	76.4	51	https://www.orthodb.org/v10?query=12851at3041	Copper chaperone
+12893at3041	Missing
+13024at3041	Complete	KN805368.1	2657514	2657189	-	97.5	42	https://www.orthodb.org/v10?query=13024at3041	U1 small nuclear ribonucleoprotein C
+13052at3041	Missing
